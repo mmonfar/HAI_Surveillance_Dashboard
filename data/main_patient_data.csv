@@ -1,0 +1,201 @@
+MRN,Accession_No,Diagnosis,HAI_Type,Bacteria,PCT_Level,Initial_Ward,Hospital,Charlson_Index,Admission_Date,Discharge_Date
+MRN_8901,ACC_90591,Bacteremia,Urinary Tract Infection,Pseudomonas aeruginosa,4.63,Surgery,LifeHealth South,5,2024-06-11,2024-06-28
+MRN_8879,ACC_25530,Pneumonia,Urinary Tract Infection,Acinetobacter baumannii,2.87,Cardiology,LifeHealth North,1,2024-08-20,2024-09-01
+MRN_5958,ACC_11090,Sepsis,Wound Infection,Staphylococcus aureus,2.89,Neuro,LifeHealth South,6,2024-04-26,2024-05-10
+MRN_7310,ACC_85409,Pneumonia,Lower Respiratory Infection,Klebsiella pneumoniae,4.18,Surgery,LifeHealth West,0,2024-06-17,2024-07-01
+MRN_8593,ACC_47450,Pneumonia,Sepsis,Pseudomonas aeruginosa,2.18,ICU,LifeHealth West,1,2024-05-12,2024-06-06
+MRN_2943,ACC_94410,Sepsis,Wound Infection,Pseudomonas aeruginosa,1.72,Cardiology,LifeHealth South,6,2024-07-16,2024-08-15
+MRN_2012,ACC_76336,UTI,Lower Respiratory Infection,E. coli,3.61,Pneumo,LifeHealth Central,8,2024-06-18,2024-06-24
+MRN_1519,ACC_43980,Sepsis,Wound Infection,Acinetobacter baumannii,3.28,Emergency,LifeHealth South,8,2024-06-01,2024-06-07
+MRN_1346,ACC_99979,UTI,Urinary Tract Infection,E. coli,3.04,Cardiology,LifeHealth West,5,2024-06-26,2024-07-11
+MRN_6535,ACC_32304,UTI,Sepsis,E. coli,3.96,Neuro,LifeHealth Central,1,2024-06-30,2024-07-27
+MRN_7846,ACC_94357,Pneumonia,Wound Infection,Klebsiella pneumoniae,0.31,Emergency,LifeHealth Central,5,2024-07-27,2024-08-24
+MRN_7326,ACC_97219,Bacteremia,Urinary Tract Infection,Acinetobacter baumannii,4.4,Cardiology,LifeHealth North,10,2024-09-16,2024-10-02
+MRN_4916,ACC_97089,Bacteremia,Wound Infection,E. coli,0.31,Orthopedics,LifeHealth West,5,2024-07-08,2024-08-01
+MRN_4225,ACC_18766,Pneumonia,Wound Infection,Candida albicans,2.33,ICU,LifeHealth North,4,2024-06-03,2024-06-20
+MRN_2732,ACC_75361,Pneumonia,Urinary Tract Infection,Candida albicans,3.09,Neuro,LifeHealth East,9,2024-05-03,2024-05-31
+MRN_3865,ACC_49206,Bacteremia,Wound Infection,Acinetobacter baumannii,3.16,Pneumo,LifeHealth East,8,2024-08-07,2024-08-25
+MRN_6251,ACC_91610,Sepsis,Urinary Tract Infection,Serratia marcescens,1.14,Surgery,LifeHealth South,6,2024-09-07,2024-09-16
+MRN_5127,ACC_95774,Sepsis,Urinary Tract Infection,Staphylococcus aureus,2.57,Cardiology,LifeHealth South,7,2024-05-12,2024-06-01
+MRN_6902,ACC_17493,Bacteremia,Wound Infection,Enterococcus faecium,0.28,ICU,LifeHealth East,7,2024-07-01,2024-07-19
+MRN_1592,ACC_59910,Pneumonia,Urinary Tract Infection,Serratia marcescens,1.96,Neuro,LifeHealth Central,3,2024-08-13,2024-09-06
+MRN_2505,ACC_55864,Pneumonia,Lower Respiratory Infection,Pseudomonas aeruginosa,3.65,Emergency,LifeHealth West,7,2024-08-04,2024-08-25
+MRN_9705,ACC_43797,Sepsis,Urinary Tract Infection,Enterococcus faecium,2.64,ICU,LifeHealth West,3,2024-09-17,2024-10-08
+MRN_2673,ACC_64750,Sepsis,Lower Respiratory Infection,Klebsiella pneumoniae,4.46,Emergency,LifeHealth West,5,2024-05-27,2024-06-04
+MRN_4076,ACC_98411,Wound Infection,Lower Respiratory Infection,Acinetobacter baumannii,3.67,ICU,LifeHealth South,8,2024-07-18,2024-07-26
+MRN_8412,ACC_60775,Bacteremia,Sepsis,Pseudomonas aeruginosa,4.3,ICU,LifeHealth West,3,2024-05-17,2024-05-28
+MRN_4416,ACC_10542,Bacteremia,Urinary Tract Infection,Acinetobacter baumannii,4.91,Neuro,LifeHealth Central,4,2024-06-05,2024-06-22
+MRN_9698,ACC_99394,Sepsis,Wound Infection,Staphylococcus aureus,3.7,Internal Medicine,LifeHealth East,4,2024-10-08,2024-11-06
+MRN_4717,ACC_21035,Sepsis,Urinary Tract Infection,Staphylococcus aureus,4.26,ICU,LifeHealth West,8,2024-04-29,2024-05-21
+MRN_7798,ACC_44142,Bacteremia,Wound Infection,Candida albicans,1.3,Emergency,LifeHealth South,8,2024-06-16,2024-07-09
+MRN_1775,ACC_63078,Wound Infection,Wound Infection,Serratia marcescens,1.73,ICU,LifeHealth South,2,2024-07-26,2024-08-22
+MRN_7787,ACC_23928,Sepsis,Wound Infection,Candida albicans,1.38,Pneumo,LifeHealth South,0,2024-07-14,2024-07-19
+MRN_3686,ACC_26029,UTI,Lower Respiratory Infection,Enterococcus faecium,1.59,Neuro,LifeHealth West,4,2024-09-07,2024-10-04
+MRN_4224,ACC_78604,UTI,Wound Infection,Staphylococcus aureus,3.63,Emergency,LifeHealth East,0,2024-08-15,2024-09-13
+MRN_1622,ACC_13102,Bacteremia,Urinary Tract Infection,Pseudomonas aeruginosa,0.14,ICU,LifeHealth West,2,2024-07-12,2024-08-01
+MRN_8095,ACC_28775,UTI,Urinary Tract Infection,Acinetobacter baumannii,2.75,Emergency,LifeHealth North,2,2024-04-29,2024-05-13
+MRN_5491,ACC_18854,Bacteremia,Wound Infection,Candida albicans,0.82,Cardiology,LifeHealth East,3,2024-07-21,2024-08-09
+MRN_8870,ACC_99061,Pneumonia,Urinary Tract Infection,Serratia marcescens,2.79,Internal Medicine,LifeHealth East,6,2024-05-24,2024-06-14
+MRN_1471,ACC_84575,UTI,Wound Infection,Acinetobacter baumannii,0.86,Surgery,LifeHealth Central,8,2024-05-03,2024-05-17
+MRN_5930,ACC_68854,Sepsis,Urinary Tract Infection,Candida albicans,0.48,Emergency,LifeHealth East,9,2024-09-25,2024-10-25
+MRN_9777,ACC_47832,Sepsis,Sepsis,Klebsiella pneumoniae,4.58,Cardiology,LifeHealth East,7,2024-04-24,2024-05-21
+MRN_8382,ACC_61091,Pneumonia,Wound Infection,Klebsiella pneumoniae,0.35,Internal Medicine,LifeHealth East,2,2024-08-15,2024-08-29
+MRN_9756,ACC_30574,Pneumonia,Lower Respiratory Infection,Enterococcus faecium,3.94,Pneumo,LifeHealth Central,0,2024-07-29,2024-08-21
+MRN_9438,ACC_82512,Bacteremia,Sepsis,E. coli,0.13,Pneumo,LifeHealth South,10,2024-05-20,2024-06-12
+MRN_5455,ACC_23534,UTI,Urinary Tract Infection,E. coli,3.46,Neuro,LifeHealth North,2,2024-09-11,2024-09-29
+MRN_1276,ACC_47909,UTI,Urinary Tract Infection,E. coli,2.64,Surgery,LifeHealth South,2,2024-09-21,2024-10-13
+MRN_2127,ACC_28284,Pneumonia,Lower Respiratory Infection,Candida albicans,2.46,Neuro,LifeHealth West,0,2024-07-28,2024-08-03
+MRN_4483,ACC_61463,Pneumonia,Sepsis,Staphylococcus aureus,2.45,Internal Medicine,LifeHealth North,0,2024-08-11,2024-09-08
+MRN_9817,ACC_76424,Pneumonia,Urinary Tract Infection,Candida albicans,0.73,Pneumo,LifeHealth North,9,2024-04-25,2024-05-08
+MRN_8048,ACC_28793,Pneumonia,Sepsis,Serratia marcescens,2.27,Cardiology,LifeHealth North,10,2024-05-17,2024-05-27
+MRN_1254,ACC_58462,Pneumonia,Sepsis,Candida albicans,1.4,Surgery,LifeHealth West,6,2024-05-11,2024-06-09
+MRN_8066,ACC_77936,UTI,Wound Infection,Klebsiella pneumoniae,4.31,Neuro,LifeHealth Central,10,2024-08-24,2024-09-23
+MRN_6533,ACC_83200,Bacteremia,Urinary Tract Infection,Serratia marcescens,2.58,Internal Medicine,LifeHealth Central,2,2024-08-22,2024-09-19
+MRN_2662,ACC_76318,Wound Infection,Urinary Tract Infection,Acinetobacter baumannii,2.31,Pneumo,LifeHealth North,7,2024-09-10,2024-10-08
+MRN_7073,ACC_69948,UTI,Sepsis,Serratia marcescens,2.09,Surgery,LifeHealth Central,9,2024-04-30,2024-05-07
+MRN_3667,ACC_38224,Wound Infection,Wound Infection,Serratia marcescens,2.85,Pneumo,LifeHealth Central,4,2024-05-16,2024-06-15
+MRN_1499,ACC_53109,Wound Infection,Urinary Tract Infection,E. coli,0.67,Surgery,LifeHealth North,5,2024-07-30,2024-08-09
+MRN_8809,ACC_93464,Sepsis,Urinary Tract Infection,Klebsiella pneumoniae,1.76,Cardiology,LifeHealth South,1,2024-05-12,2024-05-29
+MRN_8731,ACC_95205,Pneumonia,Wound Infection,Acinetobacter baumannii,4.01,ICU,LifeHealth North,6,2024-08-25,2024-09-18
+MRN_4989,ACC_18452,Pneumonia,Wound Infection,Acinetobacter baumannii,0.23,Emergency,LifeHealth South,10,2024-04-27,2024-05-23
+MRN_2865,ACC_52714,Sepsis,Lower Respiratory Infection,Enterococcus faecium,4.36,Internal Medicine,LifeHealth South,10,2024-08-11,2024-08-17
+MRN_7888,ACC_63897,UTI,Urinary Tract Infection,Staphylococcus aureus,4.42,Neuro,LifeHealth East,5,2024-10-09,2024-10-16
+MRN_1071,ACC_18269,Bacteremia,Sepsis,Serratia marcescens,3.9,Internal Medicine,LifeHealth West,4,2024-10-02,2024-10-17
+MRN_2366,ACC_69796,Wound Infection,Urinary Tract Infection,Acinetobacter baumannii,1.96,ICU,LifeHealth East,9,2024-05-26,2024-06-25
+MRN_3138,ACC_32250,Wound Infection,Wound Infection,Pseudomonas aeruginosa,0.45,Orthopedics,LifeHealth North,6,2024-07-18,2024-07-26
+MRN_4894,ACC_57207,Bacteremia,Wound Infection,E. coli,1.34,ICU,LifeHealth East,7,2024-08-21,2024-09-02
+MRN_7743,ACC_65891,Pneumonia,Sepsis,Enterococcus faecium,4.66,Emergency,LifeHealth West,8,2024-07-18,2024-08-02
+MRN_3160,ACC_80832,UTI,Sepsis,Candida albicans,3.48,Orthopedics,LifeHealth East,5,2024-07-19,2024-08-06
+MRN_6913,ACC_44489,Wound Infection,Wound Infection,Pseudomonas aeruginosa,3.57,ICU,LifeHealth East,4,2024-09-29,2024-10-10
+MRN_3604,ACC_10185,Wound Infection,Sepsis,Staphylococcus aureus,2.18,Pneumo,LifeHealth North,7,2024-10-04,2024-10-22
+MRN_7499,ACC_27872,Bacteremia,Urinary Tract Infection,Acinetobacter baumannii,4.39,Neuro,LifeHealth East,4,2024-10-01,2024-10-09
+MRN_3659,ACC_45410,Sepsis,Wound Infection,Candida albicans,1.07,Surgery,LifeHealth West,3,2024-09-14,2024-10-04
+MRN_8441,ACC_56369,UTI,Sepsis,Pseudomonas aeruginosa,2.45,Pneumo,LifeHealth East,4,2024-06-17,2024-06-22
+MRN_9902,ACC_84055,Bacteremia,Sepsis,E. coli,3.43,Internal Medicine,LifeHealth Central,9,2024-06-28,2024-07-28
+MRN_8299,ACC_26143,UTI,Wound Infection,Candida albicans,2.32,Internal Medicine,LifeHealth North,6,2024-08-29,2024-09-04
+MRN_6375,ACC_57390,Pneumonia,Urinary Tract Infection,Pseudomonas aeruginosa,0.6,Cardiology,LifeHealth West,3,2024-06-11,2024-06-30
+MRN_1412,ACC_17537,Pneumonia,Wound Infection,E. coli,2.74,Neuro,LifeHealth Central,2,2024-09-04,2024-09-10
+MRN_1443,ACC_25886,Pneumonia,Lower Respiratory Infection,Klebsiella pneumoniae,0.78,Cardiology,LifeHealth North,1,2024-08-30,2024-09-10
+MRN_9761,ACC_14814,Sepsis,Sepsis,Klebsiella pneumoniae,1.2,Surgery,LifeHealth North,1,2024-08-17,2024-09-12
+MRN_9037,ACC_34349,Wound Infection,Lower Respiratory Infection,Pseudomonas aeruginosa,0.45,Surgery,LifeHealth East,3,2024-06-20,2024-07-16
+MRN_7414,ACC_66052,Pneumonia,Lower Respiratory Infection,Staphylococcus aureus,3.21,ICU,LifeHealth East,9,2024-08-04,2024-08-27
+MRN_1628,ACC_61784,UTI,Wound Infection,Enterococcus faecium,2.56,Surgery,LifeHealth Central,5,2024-09-29,2024-10-13
+MRN_2245,ACC_85163,Bacteremia,Wound Infection,Candida albicans,0.93,Internal Medicine,LifeHealth North,4,2024-08-12,2024-08-31
+MRN_5252,ACC_78874,Pneumonia,Wound Infection,E. coli,3.23,Neuro,LifeHealth South,0,2024-09-30,2024-10-24
+MRN_7748,ACC_22160,UTI,Sepsis,Acinetobacter baumannii,4.54,Cardiology,LifeHealth North,2,2024-05-07,2024-05-24
+MRN_1345,ACC_29207,UTI,Urinary Tract Infection,Pseudomonas aeruginosa,4.54,Neuro,LifeHealth Central,0,2024-08-30,2024-09-15
+MRN_6262,ACC_34546,Sepsis,Urinary Tract Infection,Staphylococcus aureus,1.38,Neuro,LifeHealth East,0,2024-07-21,2024-07-29
+MRN_9750,ACC_46420,UTI,Lower Respiratory Infection,E. coli,3.35,Orthopedics,LifeHealth North,10,2024-08-10,2024-08-24
+MRN_7857,ACC_81599,Bacteremia,Urinary Tract Infection,Enterococcus faecium,1.84,Cardiology,LifeHealth South,4,2024-07-19,2024-08-09
+MRN_6846,ACC_90577,Sepsis,Lower Respiratory Infection,Klebsiella pneumoniae,4.24,Cardiology,LifeHealth North,3,2024-06-05,2024-06-18
+MRN_7969,ACC_50323,Sepsis,Sepsis,Klebsiella pneumoniae,3.11,Cardiology,LifeHealth East,2,2024-06-03,2024-06-18
+MRN_1897,ACC_59126,Sepsis,Sepsis,Acinetobacter baumannii,2.3,Surgery,LifeHealth Central,0,2024-07-19,2024-08-14
+MRN_1214,ACC_60736,UTI,Wound Infection,Candida albicans,3.41,ICU,LifeHealth West,3,2024-07-02,2024-07-18
+MRN_4840,ACC_91246,Sepsis,Urinary Tract Infection,Pseudomonas aeruginosa,0.71,Pneumo,LifeHealth North,7,2024-06-06,2024-06-22
+MRN_9501,ACC_82107,Bacteremia,Urinary Tract Infection,Candida albicans,3.79,Cardiology,LifeHealth North,10,2024-06-09,2024-06-28
+MRN_7868,ACC_14761,UTI,Lower Respiratory Infection,Candida albicans,4.43,Cardiology,LifeHealth East,10,2024-07-08,2024-07-27
+MRN_6108,ACC_19747,Bacteremia,Sepsis,E. coli,0.79,Orthopedics,LifeHealth South,10,2024-07-11,2024-07-17
+MRN_3517,ACC_14951,Pneumonia,Sepsis,Serratia marcescens,1.59,ICU,LifeHealth South,2,2024-08-30,2024-09-17
+MRN_8613,ACC_57651,Pneumonia,Sepsis,E. coli,4.91,Cardiology,LifeHealth South,7,2024-09-03,2024-09-14
+MRN_9304,ACC_99922,Sepsis,Wound Infection,Pseudomonas aeruginosa,1.54,Orthopedics,LifeHealth East,3,2024-07-23,2024-08-11
+MRN_4356,ACC_15172,UTI,Sepsis,Klebsiella pneumoniae,1.44,Internal Medicine,LifeHealth East,5,2024-08-23,2024-09-15
+MRN_3285,ACC_25747,UTI,Urinary Tract Infection,Pseudomonas aeruginosa,1.31,Cardiology,LifeHealth West,0,2024-09-06,2024-09-17
+MRN_4412,ACC_36632,Pneumonia,Lower Respiratory Infection,Pseudomonas aeruginosa,1.23,Internal Medicine,LifeHealth West,4,2024-04-29,2024-05-08
+MRN_7681,ACC_72304,Pneumonia,Wound Infection,Klebsiella pneumoniae,0.51,Surgery,LifeHealth East,9,2024-06-20,2024-06-28
+MRN_5683,ACC_98040,Sepsis,Wound Infection,Klebsiella pneumoniae,0.12,Pneumo,LifeHealth East,10,2024-07-02,2024-07-23
+MRN_5406,ACC_48245,Sepsis,Wound Infection,Staphylococcus aureus,1.65,Emergency,LifeHealth South,10,2024-05-26,2024-06-16
+MRN_7602,ACC_74113,Sepsis,Sepsis,Staphylococcus aureus,4.05,ICU,LifeHealth East,3,2024-07-20,2024-08-04
+MRN_8859,ACC_52535,UTI,Wound Infection,Serratia marcescens,0.2,Emergency,LifeHealth West,2,2024-09-14,2024-10-08
+MRN_5541,ACC_51985,Wound Infection,Lower Respiratory Infection,Enterococcus faecium,0.83,Cardiology,LifeHealth West,7,2024-09-04,2024-09-10
+MRN_1553,ACC_48153,Pneumonia,Urinary Tract Infection,Staphylococcus aureus,1.27,Pneumo,LifeHealth South,0,2024-07-11,2024-07-17
+MRN_9041,ACC_78449,Wound Infection,Lower Respiratory Infection,Serratia marcescens,1.37,Emergency,LifeHealth Central,8,2024-10-09,2024-10-16
+MRN_4126,ACC_81654,Pneumonia,Sepsis,E. coli,1.39,Emergency,LifeHealth North,1,2024-07-12,2024-07-28
+MRN_5544,ACC_77725,Pneumonia,Urinary Tract Infection,Enterococcus faecium,1.85,ICU,LifeHealth Central,4,2024-08-18,2024-08-24
+MRN_9192,ACC_13341,UTI,Sepsis,Acinetobacter baumannii,3.81,Orthopedics,LifeHealth West,4,2024-09-22,2024-10-01
+MRN_9013,ACC_44474,Sepsis,Lower Respiratory Infection,Staphylococcus aureus,4.66,ICU,LifeHealth South,9,2024-08-11,2024-08-30
+MRN_6982,ACC_31226,UTI,Sepsis,Candida albicans,4.57,Internal Medicine,LifeHealth North,0,2024-05-22,2024-06-12
+MRN_4300,ACC_91426,Pneumonia,Wound Infection,Candida albicans,2.21,Surgery,LifeHealth Central,5,2024-09-19,2024-10-19
+MRN_8150,ACC_44672,Pneumonia,Sepsis,Enterococcus faecium,2.6,Orthopedics,LifeHealth West,5,2024-09-21,2024-10-16
+MRN_7005,ACC_29105,Pneumonia,Urinary Tract Infection,Acinetobacter baumannii,4.59,Neuro,LifeHealth North,4,2024-09-24,2024-10-23
+MRN_9098,ACC_60565,Sepsis,Urinary Tract Infection,Staphylococcus aureus,0.82,Orthopedics,LifeHealth East,7,2024-08-10,2024-08-21
+MRN_4184,ACC_62005,Sepsis,Wound Infection,E. coli,3.19,Surgery,LifeHealth South,10,2024-07-26,2024-08-04
+MRN_8750,ACC_20354,Wound Infection,Sepsis,Serratia marcescens,2.31,Pneumo,LifeHealth South,4,2024-09-28,2024-10-27
+MRN_7650,ACC_95798,UTI,Urinary Tract Infection,Acinetobacter baumannii,4.29,Orthopedics,LifeHealth North,5,2024-07-09,2024-08-06
+MRN_9049,ACC_18842,Bacteremia,Sepsis,Acinetobacter baumannii,4.39,Emergency,LifeHealth East,8,2024-07-14,2024-08-10
+MRN_9784,ACC_63318,Sepsis,Urinary Tract Infection,Enterococcus faecium,1.83,Internal Medicine,LifeHealth West,5,2024-08-06,2024-08-30
+MRN_3505,ACC_80295,Bacteremia,Sepsis,Serratia marcescens,4.9,Emergency,LifeHealth North,8,2024-08-11,2024-09-09
+MRN_4156,ACC_91613,Pneumonia,Lower Respiratory Infection,Staphylococcus aureus,1.6,Emergency,LifeHealth Central,9,2024-07-06,2024-07-31
+MRN_2221,ACC_21651,Sepsis,Urinary Tract Infection,Klebsiella pneumoniae,2.35,Internal Medicine,LifeHealth Central,0,2024-05-08,2024-05-31
+MRN_6950,ACC_24587,Sepsis,Wound Infection,Pseudomonas aeruginosa,0.8,Pneumo,LifeHealth North,9,2024-06-30,2024-07-22
+MRN_3478,ACC_95034,Wound Infection,Urinary Tract Infection,Enterococcus faecium,1.61,Internal Medicine,LifeHealth East,8,2024-04-29,2024-05-07
+MRN_3178,ACC_95339,UTI,Sepsis,Serratia marcescens,3.66,Orthopedics,LifeHealth Central,8,2024-09-17,2024-10-10
+MRN_2988,ACC_74280,Wound Infection,Lower Respiratory Infection,Pseudomonas aeruginosa,4.51,Orthopedics,LifeHealth West,10,2024-09-06,2024-10-04
+MRN_6286,ACC_60337,Wound Infection,Wound Infection,Candida albicans,1.97,Emergency,LifeHealth North,4,2024-06-23,2024-06-29
+MRN_3605,ACC_89070,Pneumonia,Urinary Tract Infection,Candida albicans,0.13,Surgery,LifeHealth East,10,2024-09-27,2024-10-04
+MRN_5191,ACC_62571,UTI,Lower Respiratory Infection,E. coli,4.56,Internal Medicine,LifeHealth East,9,2024-04-26,2024-05-18
+MRN_7684,ACC_85140,Wound Infection,Sepsis,Serratia marcescens,3.11,Cardiology,LifeHealth Central,2,2024-06-06,2024-06-22
+MRN_2394,ACC_24752,UTI,Wound Infection,Klebsiella pneumoniae,2.91,Orthopedics,LifeHealth North,7,2024-08-28,2024-09-06
+MRN_9655,ACC_23224,UTI,Urinary Tract Infection,Staphylococcus aureus,1.55,Orthopedics,LifeHealth North,1,2024-08-20,2024-09-02
+MRN_9809,ACC_12506,Pneumonia,Wound Infection,Candida albicans,4.51,Surgery,LifeHealth Central,4,2024-06-06,2024-06-14
+MRN_8356,ACC_25317,Pneumonia,Lower Respiratory Infection,Acinetobacter baumannii,2.29,Cardiology,LifeHealth West,9,2024-06-28,2024-07-25
+MRN_8103,ACC_57877,Sepsis,Wound Infection,Enterococcus faecium,0.19,Internal Medicine,LifeHealth South,6,2024-07-12,2024-07-17
+MRN_1720,ACC_47655,Pneumonia,Wound Infection,E. coli,2.83,Orthopedics,LifeHealth Central,8,2024-07-11,2024-07-30
+MRN_6830,ACC_63321,UTI,Urinary Tract Infection,E. coli,4.87,Neuro,LifeHealth East,3,2024-10-01,2024-10-29
+MRN_6837,ACC_59258,Wound Infection,Lower Respiratory Infection,Staphylococcus aureus,4.1,Surgery,LifeHealth South,2,2024-09-07,2024-09-25
+MRN_9689,ACC_84728,Bacteremia,Urinary Tract Infection,Candida albicans,3.03,Orthopedics,LifeHealth West,9,2024-09-01,2024-09-25
+MRN_9022,ACC_15397,Sepsis,Wound Infection,Serratia marcescens,2.14,Neuro,LifeHealth East,0,2024-07-24,2024-08-02
+MRN_1363,ACC_39245,Pneumonia,Sepsis,E. coli,4.92,Surgery,LifeHealth South,8,2024-08-19,2024-08-31
+MRN_2024,ACC_50145,Bacteremia,Urinary Tract Infection,Serratia marcescens,2.29,Pneumo,LifeHealth North,2,2024-06-30,2024-07-26
+MRN_5586,ACC_66958,Sepsis,Sepsis,Acinetobacter baumannii,1.37,Cardiology,LifeHealth South,0,2024-08-19,2024-09-02
+MRN_9551,ACC_10423,Sepsis,Sepsis,Serratia marcescens,2.07,Pneumo,LifeHealth West,8,2024-07-29,2024-08-24
+MRN_1008,ACC_19154,Pneumonia,Urinary Tract Infection,Acinetobacter baumannii,0.86,ICU,LifeHealth Central,0,2024-07-06,2024-07-30
+MRN_1398,ACC_47269,Bacteremia,Sepsis,Enterococcus faecium,1.05,Cardiology,LifeHealth West,6,2024-09-14,2024-10-12
+MRN_8475,ACC_29878,Sepsis,Sepsis,Serratia marcescens,4.2,Orthopedics,LifeHealth West,2,2024-08-11,2024-08-29
+MRN_5709,ACC_21082,Pneumonia,Sepsis,Klebsiella pneumoniae,1.36,Pneumo,LifeHealth West,8,2024-06-21,2024-07-05
+MRN_9062,ACC_18361,Pneumonia,Sepsis,E. coli,0.95,Cardiology,LifeHealth West,9,2024-08-15,2024-09-05
+MRN_6147,ACC_42491,Wound Infection,Wound Infection,Candida albicans,4.44,Orthopedics,LifeHealth West,4,2024-07-01,2024-07-23
+MRN_4580,ACC_57470,Pneumonia,Urinary Tract Infection,Staphylococcus aureus,2.97,Cardiology,LifeHealth East,9,2024-05-19,2024-06-07
+MRN_4242,ACC_30558,Pneumonia,Sepsis,Serratia marcescens,4.77,Cardiology,LifeHealth West,6,2024-05-16,2024-06-09
+MRN_9824,ACC_90705,Bacteremia,Lower Respiratory Infection,Staphylococcus aureus,0.98,ICU,LifeHealth Central,8,2024-09-09,2024-09-16
+MRN_9388,ACC_90461,Pneumonia,Lower Respiratory Infection,E. coli,3.1,Orthopedics,LifeHealth North,4,2024-06-16,2024-06-29
+MRN_3741,ACC_24374,Wound Infection,Lower Respiratory Infection,E. coli,3.62,Emergency,LifeHealth East,5,2024-04-23,2024-05-15
+MRN_5407,ACC_96990,Pneumonia,Sepsis,Enterococcus faecium,3.32,Pneumo,LifeHealth West,8,2024-06-08,2024-06-30
+MRN_1627,ACC_18727,Wound Infection,Lower Respiratory Infection,Pseudomonas aeruginosa,4.24,Internal Medicine,LifeHealth Central,8,2024-05-19,2024-06-03
+MRN_8871,ACC_62174,Bacteremia,Sepsis,Staphylococcus aureus,0.67,ICU,LifeHealth West,3,2024-05-13,2024-05-28
+MRN_5181,ACC_51422,Bacteremia,Lower Respiratory Infection,Candida albicans,3.95,Pneumo,LifeHealth North,4,2024-05-19,2024-06-18
+MRN_3343,ACC_30281,Bacteremia,Sepsis,Klebsiella pneumoniae,1.82,Neuro,LifeHealth South,8,2024-08-02,2024-08-26
+MRN_4787,ACC_62746,Wound Infection,Lower Respiratory Infection,Serratia marcescens,4.24,Cardiology,LifeHealth South,0,2024-05-27,2024-06-15
+MRN_7695,ACC_94727,Bacteremia,Sepsis,Staphylococcus aureus,0.42,Pneumo,LifeHealth North,2,2024-07-06,2024-08-01
+MRN_5300,ACC_63626,Sepsis,Urinary Tract Infection,Klebsiella pneumoniae,2.23,Orthopedics,LifeHealth North,8,2024-09-01,2024-09-09
+MRN_8104,ACC_82388,Pneumonia,Urinary Tract Infection,Enterococcus faecium,0.31,Emergency,LifeHealth Central,5,2024-09-07,2024-09-20
+MRN_9482,ACC_51437,Bacteremia,Sepsis,E. coli,4.64,Orthopedics,LifeHealth North,4,2024-08-13,2024-09-03
+MRN_3937,ACC_70658,Sepsis,Wound Infection,Klebsiella pneumoniae,1.72,Orthopedics,LifeHealth Central,7,2024-08-26,2024-09-13
+MRN_9683,ACC_99067,Wound Infection,Urinary Tract Infection,Acinetobacter baumannii,2.76,ICU,LifeHealth East,7,2024-05-11,2024-05-17
+MRN_4646,ACC_38579,Bacteremia,Wound Infection,Acinetobacter baumannii,4.33,Surgery,LifeHealth North,9,2024-06-28,2024-07-26
+MRN_7724,ACC_80614,Wound Infection,Sepsis,Staphylococcus aureus,1.73,Neuro,LifeHealth North,7,2024-10-08,2024-11-04
+MRN_1812,ACC_80018,Sepsis,Lower Respiratory Infection,Candida albicans,1.39,Emergency,LifeHealth West,0,2024-05-26,2024-06-08
+MRN_7180,ACC_42434,Sepsis,Urinary Tract Infection,Acinetobacter baumannii,1.48,ICU,LifeHealth Central,2,2024-09-15,2024-09-23
+MRN_4813,ACC_90184,Bacteremia,Lower Respiratory Infection,Candida albicans,0.24,Internal Medicine,LifeHealth South,5,2024-09-25,2024-10-08
+MRN_7558,ACC_34343,Sepsis,Lower Respiratory Infection,Candida albicans,0.83,ICU,LifeHealth South,4,2024-08-26,2024-09-01
+MRN_6347,ACC_65026,Bacteremia,Wound Infection,Klebsiella pneumoniae,3.74,Cardiology,LifeHealth South,0,2024-08-20,2024-08-30
+MRN_6790,ACC_72120,Pneumonia,Sepsis,E. coli,3.29,Neuro,LifeHealth Central,8,2024-04-28,2024-05-28
+MRN_8680,ACC_31960,UTI,Sepsis,Staphylococcus aureus,2.95,Surgery,LifeHealth North,7,2024-08-25,2024-08-30
+MRN_4197,ACC_67373,UTI,Sepsis,Klebsiella pneumoniae,3.41,ICU,LifeHealth East,6,2024-07-14,2024-07-31
+MRN_3699,ACC_89850,Pneumonia,Urinary Tract Infection,E. coli,4.04,Pneumo,LifeHealth South,0,2024-07-31,2024-08-29
+MRN_8109,ACC_18192,Bacteremia,Urinary Tract Infection,Candida albicans,0.79,Internal Medicine,LifeHealth West,10,2024-05-09,2024-05-14
+MRN_4362,ACC_58271,Wound Infection,Sepsis,Candida albicans,3.59,Emergency,LifeHealth West,0,2024-05-13,2024-06-05
+MRN_5272,ACC_38128,Wound Infection,Urinary Tract Infection,Enterococcus faecium,2.31,Surgery,LifeHealth Central,7,2024-10-04,2024-10-15
+MRN_4432,ACC_94184,Sepsis,Lower Respiratory Infection,Serratia marcescens,0.85,Emergency,LifeHealth North,4,2024-05-18,2024-06-10
+MRN_6096,ACC_12632,UTI,Lower Respiratory Infection,Enterococcus faecium,3.79,ICU,LifeHealth South,3,2024-07-17,2024-08-02
+MRN_1972,ACC_70216,Pneumonia,Lower Respiratory Infection,Staphylococcus aureus,3.43,Internal Medicine,LifeHealth South,3,2024-05-03,2024-05-11
+MRN_4380,ACC_13210,Pneumonia,Sepsis,Klebsiella pneumoniae,1.37,Surgery,LifeHealth Central,0,2024-08-26,2024-09-14
+MRN_7558,ACC_37929,Bacteremia,Urinary Tract Infection,Serratia marcescens,2.23,Emergency,LifeHealth Central,3,2024-06-19,2024-07-19
+MRN_7536,ACC_34717,UTI,Wound Infection,Candida albicans,3.66,Orthopedics,LifeHealth South,10,2024-05-01,2024-05-25
+MRN_3235,ACC_99149,Bacteremia,Urinary Tract Infection,Candida albicans,0.2,Cardiology,LifeHealth South,0,2024-09-29,2024-10-09
+MRN_2232,ACC_82809,UTI,Sepsis,Candida albicans,1.73,Internal Medicine,LifeHealth North,3,2024-08-14,2024-08-29
+MRN_3146,ACC_50839,Sepsis,Wound Infection,Candida albicans,2.13,Internal Medicine,LifeHealth South,3,2024-06-02,2024-06-15
+MRN_6032,ACC_46564,UTI,Wound Infection,Candida albicans,2.78,Pneumo,LifeHealth Central,7,2024-07-24,2024-08-08
+MRN_4136,ACC_12875,Bacteremia,Wound Infection,Pseudomonas aeruginosa,2.59,Neuro,LifeHealth West,3,2024-05-21,2024-05-31
+MRN_7994,ACC_99408,UTI,Wound Infection,Pseudomonas aeruginosa,0.28,Neuro,LifeHealth West,2,2024-08-20,2024-09-16
+MRN_5006,ACC_17035,Sepsis,Lower Respiratory Infection,Klebsiella pneumoniae,1.97,Pneumo,LifeHealth South,10,2024-08-06,2024-08-15
+MRN_2326,ACC_28958,Bacteremia,Sepsis,Acinetobacter baumannii,4.51,Orthopedics,LifeHealth West,1,2024-07-08,2024-07-16

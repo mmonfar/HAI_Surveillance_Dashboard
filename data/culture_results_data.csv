@@ -1,0 +1,801 @@
+MRN,Accession_No,Culture_Date,Type_of_Culture,Bacteria_Isolated,Antibiotic,MIC_Result,MIC_Interpretation
+MRN_8901,ACC_90591,2024-06-16,Sputum,Pseudomonas aeruginosa,Ceftazidime,0.59,S
+MRN_8901,ACC_90591,2024-06-16,Sputum,Pseudomonas aeruginosa,Meropenem,1.3,I
+MRN_8901,ACC_90591,2024-06-16,Sputum,Pseudomonas aeruginosa,Piperacillin/Tazobactam,2.04,R
+MRN_8901,ACC_90591,2024-06-16,Sputum,Pseudomonas aeruginosa,Colistin,2.77,R
+MRN_8879,ACC_25530,2024-08-21,Urine,Acinetobacter baumannii,Colistin,1.17,I
+MRN_8879,ACC_25530,2024-08-21,Urine,Acinetobacter baumannii,Meropenem,0.18,S
+MRN_8879,ACC_25530,2024-08-21,Urine,Acinetobacter baumannii,Ampicillin/Sulbactam,0.16,S
+MRN_8879,ACC_25530,2024-08-21,Urine,Acinetobacter baumannii,Tigecycline,3.57,R
+MRN_5958,ACC_11090,2024-04-26,Urine,Staphylococcus aureus,Vancomycin,2.89,R
+MRN_5958,ACC_11090,2024-04-26,Urine,Staphylococcus aureus,Oxacillin,2.82,R
+MRN_5958,ACC_11090,2024-04-26,Urine,Staphylococcus aureus,Daptomycin,1.65,I
+MRN_5958,ACC_11090,2024-04-26,Urine,Staphylococcus aureus,Linezolid,3.13,R
+MRN_7310,ACC_85409,2024-06-18,Wound Swab,Klebsiella pneumoniae,Ceftriaxone,3.36,R
+MRN_7310,ACC_85409,2024-06-18,Wound Swab,Klebsiella pneumoniae,Meropenem,3.28,R
+MRN_7310,ACC_85409,2024-06-18,Wound Swab,Klebsiella pneumoniae,Ceftazidime,2.74,R
+MRN_7310,ACC_85409,2024-06-18,Wound Swab,Klebsiella pneumoniae,Gentamicin,3.11,R
+MRN_8593,ACC_47450,2024-05-12,Wound Swab,Pseudomonas aeruginosa,Ceftazidime,0.74,S
+MRN_8593,ACC_47450,2024-05-12,Wound Swab,Pseudomonas aeruginosa,Meropenem,1.46,I
+MRN_8593,ACC_47450,2024-05-12,Wound Swab,Pseudomonas aeruginosa,Piperacillin/Tazobactam,0.32,S
+MRN_8593,ACC_47450,2024-05-12,Wound Swab,Pseudomonas aeruginosa,Colistin,2.54,R
+MRN_2943,ACC_94410,2024-07-21,Sputum,Pseudomonas aeruginosa,Ceftazidime,2.29,R
+MRN_2943,ACC_94410,2024-07-21,Sputum,Pseudomonas aeruginosa,Meropenem,3.78,R
+MRN_2943,ACC_94410,2024-07-21,Sputum,Pseudomonas aeruginosa,Piperacillin/Tazobactam,1.83,I
+MRN_2943,ACC_94410,2024-07-21,Sputum,Pseudomonas aeruginosa,Colistin,1.86,I
+MRN_2012,ACC_76336,2024-06-18,Urine,E. coli,Ciprofloxacin,2.84,R
+MRN_2012,ACC_76336,2024-06-18,Urine,E. coli,Amoxicillin/Clavulanate,3.14,R
+MRN_2012,ACC_76336,2024-06-18,Urine,E. coli,Ceftriaxone,3.48,R
+MRN_2012,ACC_76336,2024-06-18,Urine,E. coli,Meropenem,0.14,S
+MRN_1519,ACC_43980,2024-06-05,Catheter Tip,Acinetobacter baumannii,Colistin,2.46,R
+MRN_1519,ACC_43980,2024-06-05,Catheter Tip,Acinetobacter baumannii,Meropenem,1.94,I
+MRN_1519,ACC_43980,2024-06-05,Catheter Tip,Acinetobacter baumannii,Ampicillin/Sulbactam,2.2,R
+MRN_1519,ACC_43980,2024-06-05,Catheter Tip,Acinetobacter baumannii,Tigecycline,3.86,R
+MRN_1346,ACC_99979,2024-07-01,Urine,E. coli,Ciprofloxacin,1.82,I
+MRN_1346,ACC_99979,2024-07-01,Urine,E. coli,Amoxicillin/Clavulanate,2.04,R
+MRN_1346,ACC_99979,2024-07-01,Urine,E. coli,Ceftriaxone,0.55,S
+MRN_1346,ACC_99979,2024-07-01,Urine,E. coli,Meropenem,2.92,R
+MRN_6535,ACC_32304,2024-07-01,Wound Swab,E. coli,Ciprofloxacin,2.32,R
+MRN_6535,ACC_32304,2024-07-01,Wound Swab,E. coli,Amoxicillin/Clavulanate,3.25,R
+MRN_6535,ACC_32304,2024-07-01,Wound Swab,E. coli,Ceftriaxone,2.84,R
+MRN_6535,ACC_32304,2024-07-01,Wound Swab,E. coli,Meropenem,1.29,I
+MRN_7846,ACC_94357,2024-08-01,Catheter Tip,Klebsiella pneumoniae,Ceftriaxone,0.84,S
+MRN_7846,ACC_94357,2024-08-01,Catheter Tip,Klebsiella pneumoniae,Meropenem,3.83,R
+MRN_7846,ACC_94357,2024-08-01,Catheter Tip,Klebsiella pneumoniae,Ceftazidime,1.38,I
+MRN_7846,ACC_94357,2024-08-01,Catheter Tip,Klebsiella pneumoniae,Gentamicin,0.82,S
+MRN_7326,ACC_97219,2024-09-21,Wound Swab,Acinetobacter baumannii,Colistin,1.36,I
+MRN_7326,ACC_97219,2024-09-21,Wound Swab,Acinetobacter baumannii,Meropenem,0.54,S
+MRN_7326,ACC_97219,2024-09-21,Wound Swab,Acinetobacter baumannii,Ampicillin/Sulbactam,3.13,R
+MRN_7326,ACC_97219,2024-09-21,Wound Swab,Acinetobacter baumannii,Tigecycline,1.46,I
+MRN_4916,ACC_97089,2024-07-13,Blood,E. coli,Ciprofloxacin,2.49,R
+MRN_4916,ACC_97089,2024-07-13,Blood,E. coli,Amoxicillin/Clavulanate,2.53,R
+MRN_4916,ACC_97089,2024-07-13,Blood,E. coli,Ceftriaxone,3.3,R
+MRN_4916,ACC_97089,2024-07-13,Blood,E. coli,Meropenem,0.72,S
+MRN_4225,ACC_18766,2024-06-08,Sputum,Candida albicans,Fluconazole,3.56,R
+MRN_4225,ACC_18766,2024-06-08,Sputum,Candida albicans,Voriconazole,1.12,I
+MRN_4225,ACC_18766,2024-06-08,Sputum,Candida albicans,Amphotericin B,0.21,S
+MRN_4225,ACC_18766,2024-06-08,Sputum,Candida albicans,Caspofungin,2.73,R
+MRN_2732,ACC_75361,2024-05-04,Wound Swab,Candida albicans,Fluconazole,1.56,I
+MRN_2732,ACC_75361,2024-05-04,Wound Swab,Candida albicans,Voriconazole,1.1,I
+MRN_2732,ACC_75361,2024-05-04,Wound Swab,Candida albicans,Amphotericin B,0.37,S
+MRN_2732,ACC_75361,2024-05-04,Wound Swab,Candida albicans,Caspofungin,0.92,S
+MRN_3865,ACC_49206,2024-08-07,Urine,Acinetobacter baumannii,Colistin,1.61,I
+MRN_3865,ACC_49206,2024-08-07,Urine,Acinetobacter baumannii,Meropenem,2.45,R
+MRN_3865,ACC_49206,2024-08-07,Urine,Acinetobacter baumannii,Ampicillin/Sulbactam,1.89,I
+MRN_3865,ACC_49206,2024-08-07,Urine,Acinetobacter baumannii,Tigecycline,3.31,R
+MRN_6251,ACC_91610,2024-09-12,Wound Swab,Serratia marcescens,Ceftriaxone,1.84,I
+MRN_6251,ACC_91610,2024-09-12,Wound Swab,Serratia marcescens,Meropenem,1.45,I
+MRN_6251,ACC_91610,2024-09-12,Wound Swab,Serratia marcescens,Gentamicin,0.98,S
+MRN_6251,ACC_91610,2024-09-12,Wound Swab,Serratia marcescens,Ciprofloxacin,0.97,S
+MRN_5127,ACC_95774,2024-05-15,Blood,Staphylococcus aureus,Vancomycin,0.13,S
+MRN_5127,ACC_95774,2024-05-15,Blood,Staphylococcus aureus,Oxacillin,2.46,R
+MRN_5127,ACC_95774,2024-05-15,Blood,Staphylococcus aureus,Daptomycin,3.98,R
+MRN_5127,ACC_95774,2024-05-15,Blood,Staphylococcus aureus,Linezolid,3.75,R
+MRN_6902,ACC_17493,2024-07-03,Wound Swab,Enterococcus faecium,Vancomycin,0.74,S
+MRN_6902,ACC_17493,2024-07-03,Wound Swab,Enterococcus faecium,Linezolid,2.75,R
+MRN_6902,ACC_17493,2024-07-03,Wound Swab,Enterococcus faecium,Daptomycin,0.96,S
+MRN_6902,ACC_17493,2024-07-03,Wound Swab,Enterococcus faecium,Ampicillin,2.43,R
+MRN_1592,ACC_59910,2024-08-14,Blood,Serratia marcescens,Ceftriaxone,2.59,R
+MRN_1592,ACC_59910,2024-08-14,Blood,Serratia marcescens,Meropenem,1.77,I
+MRN_1592,ACC_59910,2024-08-14,Blood,Serratia marcescens,Gentamicin,2.53,R
+MRN_1592,ACC_59910,2024-08-14,Blood,Serratia marcescens,Ciprofloxacin,2.44,R
+MRN_2505,ACC_55864,2024-08-07,Catheter Tip,Pseudomonas aeruginosa,Ceftazidime,3.84,R
+MRN_2505,ACC_55864,2024-08-07,Catheter Tip,Pseudomonas aeruginosa,Meropenem,1.8,I
+MRN_2505,ACC_55864,2024-08-07,Catheter Tip,Pseudomonas aeruginosa,Piperacillin/Tazobactam,2.84,R
+MRN_2505,ACC_55864,2024-08-07,Catheter Tip,Pseudomonas aeruginosa,Colistin,3.53,R
+MRN_9705,ACC_43797,2024-09-21,Urine,Enterococcus faecium,Vancomycin,0.45,S
+MRN_9705,ACC_43797,2024-09-21,Urine,Enterococcus faecium,Linezolid,2.57,R
+MRN_9705,ACC_43797,2024-09-21,Urine,Enterococcus faecium,Daptomycin,3.16,R
+MRN_9705,ACC_43797,2024-09-21,Urine,Enterococcus faecium,Ampicillin,1.59,I
+MRN_2673,ACC_64750,2024-05-30,Urine,Klebsiella pneumoniae,Ceftriaxone,0.52,S
+MRN_2673,ACC_64750,2024-05-30,Urine,Klebsiella pneumoniae,Meropenem,2.74,R
+MRN_2673,ACC_64750,2024-05-30,Urine,Klebsiella pneumoniae,Ceftazidime,3.64,R
+MRN_2673,ACC_64750,2024-05-30,Urine,Klebsiella pneumoniae,Gentamicin,0.57,S
+MRN_4076,ACC_98411,2024-07-21,Wound Swab,Acinetobacter baumannii,Colistin,1.19,I
+MRN_4076,ACC_98411,2024-07-21,Wound Swab,Acinetobacter baumannii,Meropenem,0.44,S
+MRN_4076,ACC_98411,2024-07-21,Wound Swab,Acinetobacter baumannii,Ampicillin/Sulbactam,2.63,R
+MRN_4076,ACC_98411,2024-07-21,Wound Swab,Acinetobacter baumannii,Tigecycline,0.74,S
+MRN_8412,ACC_60775,2024-05-21,Catheter Tip,Pseudomonas aeruginosa,Ceftazidime,2.1,R
+MRN_8412,ACC_60775,2024-05-21,Catheter Tip,Pseudomonas aeruginosa,Meropenem,2.77,R
+MRN_8412,ACC_60775,2024-05-21,Catheter Tip,Pseudomonas aeruginosa,Piperacillin/Tazobactam,0.91,S
+MRN_8412,ACC_60775,2024-05-21,Catheter Tip,Pseudomonas aeruginosa,Colistin,3.16,R
+MRN_4416,ACC_10542,2024-06-05,Catheter Tip,Acinetobacter baumannii,Colistin,1.01,I
+MRN_4416,ACC_10542,2024-06-05,Catheter Tip,Acinetobacter baumannii,Meropenem,0.42,S
+MRN_4416,ACC_10542,2024-06-05,Catheter Tip,Acinetobacter baumannii,Ampicillin/Sulbactam,3.88,R
+MRN_4416,ACC_10542,2024-06-05,Catheter Tip,Acinetobacter baumannii,Tigecycline,3.09,R
+MRN_9698,ACC_99394,2024-10-12,Catheter Tip,Staphylococcus aureus,Vancomycin,2.84,R
+MRN_9698,ACC_99394,2024-10-12,Catheter Tip,Staphylococcus aureus,Oxacillin,2.15,R
+MRN_9698,ACC_99394,2024-10-12,Catheter Tip,Staphylococcus aureus,Daptomycin,3.09,R
+MRN_9698,ACC_99394,2024-10-12,Catheter Tip,Staphylococcus aureus,Linezolid,3.05,R
+MRN_4717,ACC_21035,2024-05-03,Blood,Staphylococcus aureus,Vancomycin,1.62,I
+MRN_4717,ACC_21035,2024-05-03,Blood,Staphylococcus aureus,Oxacillin,3.75,R
+MRN_4717,ACC_21035,2024-05-03,Blood,Staphylococcus aureus,Daptomycin,1.01,I
+MRN_4717,ACC_21035,2024-05-03,Blood,Staphylococcus aureus,Linezolid,2.43,R
+MRN_7798,ACC_44142,2024-06-21,Blood,Candida albicans,Fluconazole,2.86,R
+MRN_7798,ACC_44142,2024-06-21,Blood,Candida albicans,Voriconazole,1.5,I
+MRN_7798,ACC_44142,2024-06-21,Blood,Candida albicans,Amphotericin B,1.87,I
+MRN_7798,ACC_44142,2024-06-21,Blood,Candida albicans,Caspofungin,3.14,R
+MRN_1775,ACC_63078,2024-07-27,Sputum,Serratia marcescens,Ceftriaxone,2.86,R
+MRN_1775,ACC_63078,2024-07-27,Sputum,Serratia marcescens,Meropenem,1.94,I
+MRN_1775,ACC_63078,2024-07-27,Sputum,Serratia marcescens,Gentamicin,1.16,I
+MRN_1775,ACC_63078,2024-07-27,Sputum,Serratia marcescens,Ciprofloxacin,0.83,S
+MRN_7787,ACC_23928,2024-07-14,Blood,Candida albicans,Fluconazole,2.19,R
+MRN_7787,ACC_23928,2024-07-14,Blood,Candida albicans,Voriconazole,2.2,R
+MRN_7787,ACC_23928,2024-07-14,Blood,Candida albicans,Amphotericin B,2.93,R
+MRN_7787,ACC_23928,2024-07-14,Blood,Candida albicans,Caspofungin,1.62,I
+MRN_3686,ACC_26029,2024-09-11,Blood,Enterococcus faecium,Vancomycin,1.23,I
+MRN_3686,ACC_26029,2024-09-11,Blood,Enterococcus faecium,Linezolid,0.71,S
+MRN_3686,ACC_26029,2024-09-11,Blood,Enterococcus faecium,Daptomycin,2.56,R
+MRN_3686,ACC_26029,2024-09-11,Blood,Enterococcus faecium,Ampicillin,2.77,R
+MRN_4224,ACC_78604,2024-08-20,Wound Swab,Staphylococcus aureus,Vancomycin,3.27,R
+MRN_4224,ACC_78604,2024-08-20,Wound Swab,Staphylococcus aureus,Oxacillin,2.2,R
+MRN_4224,ACC_78604,2024-08-20,Wound Swab,Staphylococcus aureus,Daptomycin,2.13,R
+MRN_4224,ACC_78604,2024-08-20,Wound Swab,Staphylococcus aureus,Linezolid,3.83,R
+MRN_1622,ACC_13102,2024-07-14,Wound Swab,Pseudomonas aeruginosa,Ceftazidime,3.26,R
+MRN_1622,ACC_13102,2024-07-14,Wound Swab,Pseudomonas aeruginosa,Meropenem,2.63,R
+MRN_1622,ACC_13102,2024-07-14,Wound Swab,Pseudomonas aeruginosa,Piperacillin/Tazobactam,0.54,S
+MRN_1622,ACC_13102,2024-07-14,Wound Swab,Pseudomonas aeruginosa,Colistin,2.59,R
+MRN_8095,ACC_28775,2024-05-04,Catheter Tip,Acinetobacter baumannii,Colistin,0.34,S
+MRN_8095,ACC_28775,2024-05-04,Catheter Tip,Acinetobacter baumannii,Meropenem,2.77,R
+MRN_8095,ACC_28775,2024-05-04,Catheter Tip,Acinetobacter baumannii,Ampicillin/Sulbactam,3.31,R
+MRN_8095,ACC_28775,2024-05-04,Catheter Tip,Acinetobacter baumannii,Tigecycline,3.58,R
+MRN_5491,ACC_18854,2024-07-23,Urine,Candida albicans,Fluconazole,2.41,R
+MRN_5491,ACC_18854,2024-07-23,Urine,Candida albicans,Voriconazole,1.78,I
+MRN_5491,ACC_18854,2024-07-23,Urine,Candida albicans,Amphotericin B,3.68,R
+MRN_5491,ACC_18854,2024-07-23,Urine,Candida albicans,Caspofungin,3.97,R
+MRN_8870,ACC_99061,2024-05-29,Wound Swab,Serratia marcescens,Ceftriaxone,3.2,R
+MRN_8870,ACC_99061,2024-05-29,Wound Swab,Serratia marcescens,Meropenem,3.86,R
+MRN_8870,ACC_99061,2024-05-29,Wound Swab,Serratia marcescens,Gentamicin,3.28,R
+MRN_8870,ACC_99061,2024-05-29,Wound Swab,Serratia marcescens,Ciprofloxacin,1.99,I
+MRN_1471,ACC_84575,2024-05-05,Catheter Tip,Acinetobacter baumannii,Colistin,0.77,S
+MRN_1471,ACC_84575,2024-05-05,Catheter Tip,Acinetobacter baumannii,Meropenem,3.98,R
+MRN_1471,ACC_84575,2024-05-05,Catheter Tip,Acinetobacter baumannii,Ampicillin/Sulbactam,0.21,S
+MRN_1471,ACC_84575,2024-05-05,Catheter Tip,Acinetobacter baumannii,Tigecycline,1.02,I
+MRN_5930,ACC_68854,2024-09-28,Urine,Candida albicans,Fluconazole,0.66,S
+MRN_5930,ACC_68854,2024-09-28,Urine,Candida albicans,Voriconazole,1.93,I
+MRN_5930,ACC_68854,2024-09-28,Urine,Candida albicans,Amphotericin B,3.29,R
+MRN_5930,ACC_68854,2024-09-28,Urine,Candida albicans,Caspofungin,3.38,R
+MRN_9777,ACC_47832,2024-04-24,Urine,Klebsiella pneumoniae,Ceftriaxone,0.93,S
+MRN_9777,ACC_47832,2024-04-24,Urine,Klebsiella pneumoniae,Meropenem,2.41,R
+MRN_9777,ACC_47832,2024-04-24,Urine,Klebsiella pneumoniae,Ceftazidime,0.49,S
+MRN_9777,ACC_47832,2024-04-24,Urine,Klebsiella pneumoniae,Gentamicin,2.62,R
+MRN_8382,ACC_61091,2024-08-18,Wound Swab,Klebsiella pneumoniae,Ceftriaxone,0.42,S
+MRN_8382,ACC_61091,2024-08-18,Wound Swab,Klebsiella pneumoniae,Meropenem,3.78,R
+MRN_8382,ACC_61091,2024-08-18,Wound Swab,Klebsiella pneumoniae,Ceftazidime,0.21,S
+MRN_8382,ACC_61091,2024-08-18,Wound Swab,Klebsiella pneumoniae,Gentamicin,3.92,R
+MRN_9756,ACC_30574,2024-08-03,Wound Swab,Enterococcus faecium,Vancomycin,0.47,S
+MRN_9756,ACC_30574,2024-08-03,Wound Swab,Enterococcus faecium,Linezolid,0.74,S
+MRN_9756,ACC_30574,2024-08-03,Wound Swab,Enterococcus faecium,Daptomycin,1.11,I
+MRN_9756,ACC_30574,2024-08-03,Wound Swab,Enterococcus faecium,Ampicillin,3.96,R
+MRN_9438,ACC_82512,2024-05-25,Sputum,E. coli,Ciprofloxacin,1.67,I
+MRN_9438,ACC_82512,2024-05-25,Sputum,E. coli,Amoxicillin/Clavulanate,0.78,S
+MRN_9438,ACC_82512,2024-05-25,Sputum,E. coli,Ceftriaxone,1.06,I
+MRN_9438,ACC_82512,2024-05-25,Sputum,E. coli,Meropenem,2.27,R
+MRN_5455,ACC_23534,2024-09-13,Urine,E. coli,Ciprofloxacin,3.16,R
+MRN_5455,ACC_23534,2024-09-13,Urine,E. coli,Amoxicillin/Clavulanate,0.53,S
+MRN_5455,ACC_23534,2024-09-13,Urine,E. coli,Ceftriaxone,0.48,S
+MRN_5455,ACC_23534,2024-09-13,Urine,E. coli,Meropenem,3.12,R
+MRN_1276,ACC_47909,2024-09-25,Catheter Tip,E. coli,Ciprofloxacin,0.6,S
+MRN_1276,ACC_47909,2024-09-25,Catheter Tip,E. coli,Amoxicillin/Clavulanate,3.58,R
+MRN_1276,ACC_47909,2024-09-25,Catheter Tip,E. coli,Ceftriaxone,3.31,R
+MRN_1276,ACC_47909,2024-09-25,Catheter Tip,E. coli,Meropenem,3.66,R
+MRN_2127,ACC_28284,2024-07-30,Catheter Tip,Candida albicans,Fluconazole,3.44,R
+MRN_2127,ACC_28284,2024-07-30,Catheter Tip,Candida albicans,Voriconazole,0.61,S
+MRN_2127,ACC_28284,2024-07-30,Catheter Tip,Candida albicans,Amphotericin B,2.85,R
+MRN_2127,ACC_28284,2024-07-30,Catheter Tip,Candida albicans,Caspofungin,0.32,S
+MRN_4483,ACC_61463,2024-08-15,Blood,Staphylococcus aureus,Vancomycin,3.56,R
+MRN_4483,ACC_61463,2024-08-15,Blood,Staphylococcus aureus,Oxacillin,1.49,I
+MRN_4483,ACC_61463,2024-08-15,Blood,Staphylococcus aureus,Daptomycin,2.32,R
+MRN_4483,ACC_61463,2024-08-15,Blood,Staphylococcus aureus,Linezolid,3.24,R
+MRN_9817,ACC_76424,2024-04-26,Sputum,Candida albicans,Fluconazole,2.16,R
+MRN_9817,ACC_76424,2024-04-26,Sputum,Candida albicans,Voriconazole,2.32,R
+MRN_9817,ACC_76424,2024-04-26,Sputum,Candida albicans,Amphotericin B,1.25,I
+MRN_9817,ACC_76424,2024-04-26,Sputum,Candida albicans,Caspofungin,3.59,R
+MRN_8048,ACC_28793,2024-05-18,Blood,Serratia marcescens,Ceftriaxone,0.48,S
+MRN_8048,ACC_28793,2024-05-18,Blood,Serratia marcescens,Meropenem,0.4,S
+MRN_8048,ACC_28793,2024-05-18,Blood,Serratia marcescens,Gentamicin,0.89,S
+MRN_8048,ACC_28793,2024-05-18,Blood,Serratia marcescens,Ciprofloxacin,0.77,S
+MRN_1254,ACC_58462,2024-05-14,Urine,Candida albicans,Fluconazole,1.42,I
+MRN_1254,ACC_58462,2024-05-14,Urine,Candida albicans,Voriconazole,2.14,R
+MRN_1254,ACC_58462,2024-05-14,Urine,Candida albicans,Amphotericin B,2.12,R
+MRN_1254,ACC_58462,2024-05-14,Urine,Candida albicans,Caspofungin,3.33,R
+MRN_8066,ACC_77936,2024-08-24,Catheter Tip,Klebsiella pneumoniae,Ceftriaxone,3.63,R
+MRN_8066,ACC_77936,2024-08-24,Catheter Tip,Klebsiella pneumoniae,Meropenem,1.31,I
+MRN_8066,ACC_77936,2024-08-24,Catheter Tip,Klebsiella pneumoniae,Ceftazidime,0.16,S
+MRN_8066,ACC_77936,2024-08-24,Catheter Tip,Klebsiella pneumoniae,Gentamicin,2.77,R
+MRN_6533,ACC_83200,2024-08-26,Sputum,Serratia marcescens,Ceftriaxone,2.17,R
+MRN_6533,ACC_83200,2024-08-26,Sputum,Serratia marcescens,Meropenem,2.97,R
+MRN_6533,ACC_83200,2024-08-26,Sputum,Serratia marcescens,Gentamicin,3.3,R
+MRN_6533,ACC_83200,2024-08-26,Sputum,Serratia marcescens,Ciprofloxacin,1.51,I
+MRN_2662,ACC_76318,2024-09-14,Blood,Acinetobacter baumannii,Colistin,1.95,I
+MRN_2662,ACC_76318,2024-09-14,Blood,Acinetobacter baumannii,Meropenem,3.6,R
+MRN_2662,ACC_76318,2024-09-14,Blood,Acinetobacter baumannii,Ampicillin/Sulbactam,1.97,I
+MRN_2662,ACC_76318,2024-09-14,Blood,Acinetobacter baumannii,Tigecycline,1.79,I
+MRN_7073,ACC_69948,2024-05-03,Sputum,Serratia marcescens,Ceftriaxone,2.2,R
+MRN_7073,ACC_69948,2024-05-03,Sputum,Serratia marcescens,Meropenem,2.67,R
+MRN_7073,ACC_69948,2024-05-03,Sputum,Serratia marcescens,Gentamicin,3.92,R
+MRN_7073,ACC_69948,2024-05-03,Sputum,Serratia marcescens,Ciprofloxacin,2.82,R
+MRN_3667,ACC_38224,2024-05-20,Wound Swab,Serratia marcescens,Ceftriaxone,2.31,R
+MRN_3667,ACC_38224,2024-05-20,Wound Swab,Serratia marcescens,Meropenem,3.93,R
+MRN_3667,ACC_38224,2024-05-20,Wound Swab,Serratia marcescens,Gentamicin,2.09,R
+MRN_3667,ACC_38224,2024-05-20,Wound Swab,Serratia marcescens,Ciprofloxacin,2.56,R
+MRN_1499,ACC_53109,2024-08-01,Sputum,E. coli,Ciprofloxacin,2.91,R
+MRN_1499,ACC_53109,2024-08-01,Sputum,E. coli,Amoxicillin/Clavulanate,1.37,I
+MRN_1499,ACC_53109,2024-08-01,Sputum,E. coli,Ceftriaxone,3.36,R
+MRN_1499,ACC_53109,2024-08-01,Sputum,E. coli,Meropenem,2.17,R
+MRN_8809,ACC_93464,2024-05-12,Sputum,Klebsiella pneumoniae,Ceftriaxone,3.38,R
+MRN_8809,ACC_93464,2024-05-12,Sputum,Klebsiella pneumoniae,Meropenem,1.11,I
+MRN_8809,ACC_93464,2024-05-12,Sputum,Klebsiella pneumoniae,Ceftazidime,1.35,I
+MRN_8809,ACC_93464,2024-05-12,Sputum,Klebsiella pneumoniae,Gentamicin,0.36,S
+MRN_8731,ACC_95205,2024-08-30,Blood,Acinetobacter baumannii,Colistin,3.91,R
+MRN_8731,ACC_95205,2024-08-30,Blood,Acinetobacter baumannii,Meropenem,2.32,R
+MRN_8731,ACC_95205,2024-08-30,Blood,Acinetobacter baumannii,Ampicillin/Sulbactam,2.59,R
+MRN_8731,ACC_95205,2024-08-30,Blood,Acinetobacter baumannii,Tigecycline,2.91,R
+MRN_4989,ACC_18452,2024-04-29,Urine,Acinetobacter baumannii,Colistin,3.2,R
+MRN_4989,ACC_18452,2024-04-29,Urine,Acinetobacter baumannii,Meropenem,0.91,S
+MRN_4989,ACC_18452,2024-04-29,Urine,Acinetobacter baumannii,Ampicillin/Sulbactam,3.16,R
+MRN_4989,ACC_18452,2024-04-29,Urine,Acinetobacter baumannii,Tigecycline,3.44,R
+MRN_2865,ACC_52714,2024-08-16,Urine,Enterococcus faecium,Vancomycin,3.1,R
+MRN_2865,ACC_52714,2024-08-16,Urine,Enterococcus faecium,Linezolid,2.96,R
+MRN_2865,ACC_52714,2024-08-16,Urine,Enterococcus faecium,Daptomycin,3.75,R
+MRN_2865,ACC_52714,2024-08-16,Urine,Enterococcus faecium,Ampicillin,0.14,S
+MRN_7888,ACC_63897,2024-10-13,Urine,Staphylococcus aureus,Vancomycin,2.91,R
+MRN_7888,ACC_63897,2024-10-13,Urine,Staphylococcus aureus,Oxacillin,1.66,I
+MRN_7888,ACC_63897,2024-10-13,Urine,Staphylococcus aureus,Daptomycin,2.6,R
+MRN_7888,ACC_63897,2024-10-13,Urine,Staphylococcus aureus,Linezolid,0.85,S
+MRN_1071,ACC_18269,2024-10-07,Blood,Serratia marcescens,Ceftriaxone,3.07,R
+MRN_1071,ACC_18269,2024-10-07,Blood,Serratia marcescens,Meropenem,2.05,R
+MRN_1071,ACC_18269,2024-10-07,Blood,Serratia marcescens,Gentamicin,1.84,I
+MRN_1071,ACC_18269,2024-10-07,Blood,Serratia marcescens,Ciprofloxacin,0.93,S
+MRN_2366,ACC_69796,2024-05-26,Blood,Acinetobacter baumannii,Colistin,1.53,I
+MRN_2366,ACC_69796,2024-05-26,Blood,Acinetobacter baumannii,Meropenem,3.61,R
+MRN_2366,ACC_69796,2024-05-26,Blood,Acinetobacter baumannii,Ampicillin/Sulbactam,1.14,I
+MRN_2366,ACC_69796,2024-05-26,Blood,Acinetobacter baumannii,Tigecycline,2.49,R
+MRN_3138,ACC_32250,2024-07-18,Sputum,Pseudomonas aeruginosa,Ceftazidime,1.67,I
+MRN_3138,ACC_32250,2024-07-18,Sputum,Pseudomonas aeruginosa,Meropenem,3.59,R
+MRN_3138,ACC_32250,2024-07-18,Sputum,Pseudomonas aeruginosa,Piperacillin/Tazobactam,0.27,S
+MRN_3138,ACC_32250,2024-07-18,Sputum,Pseudomonas aeruginosa,Colistin,0.55,S
+MRN_4894,ACC_57207,2024-08-24,Sputum,E. coli,Ciprofloxacin,0.85,S
+MRN_4894,ACC_57207,2024-08-24,Sputum,E. coli,Amoxicillin/Clavulanate,3.93,R
+MRN_4894,ACC_57207,2024-08-24,Sputum,E. coli,Ceftriaxone,2.83,R
+MRN_4894,ACC_57207,2024-08-24,Sputum,E. coli,Meropenem,2.87,R
+MRN_7743,ACC_65891,2024-07-23,Catheter Tip,Enterococcus faecium,Vancomycin,3.34,R
+MRN_7743,ACC_65891,2024-07-23,Catheter Tip,Enterococcus faecium,Linezolid,2.97,R
+MRN_7743,ACC_65891,2024-07-23,Catheter Tip,Enterococcus faecium,Daptomycin,2.69,R
+MRN_7743,ACC_65891,2024-07-23,Catheter Tip,Enterococcus faecium,Ampicillin,2.55,R
+MRN_3160,ACC_80832,2024-07-22,Blood,Candida albicans,Fluconazole,1.0,S
+MRN_3160,ACC_80832,2024-07-22,Blood,Candida albicans,Voriconazole,0.71,S
+MRN_3160,ACC_80832,2024-07-22,Blood,Candida albicans,Amphotericin B,0.85,S
+MRN_3160,ACC_80832,2024-07-22,Blood,Candida albicans,Caspofungin,3.71,R
+MRN_6913,ACC_44489,2024-09-29,Wound Swab,Pseudomonas aeruginosa,Ceftazidime,2.85,R
+MRN_6913,ACC_44489,2024-09-29,Wound Swab,Pseudomonas aeruginosa,Meropenem,3.65,R
+MRN_6913,ACC_44489,2024-09-29,Wound Swab,Pseudomonas aeruginosa,Piperacillin/Tazobactam,3.58,R
+MRN_6913,ACC_44489,2024-09-29,Wound Swab,Pseudomonas aeruginosa,Colistin,3.91,R
+MRN_3604,ACC_10185,2024-10-08,Catheter Tip,Staphylococcus aureus,Vancomycin,1.2,I
+MRN_3604,ACC_10185,2024-10-08,Catheter Tip,Staphylococcus aureus,Oxacillin,0.74,S
+MRN_3604,ACC_10185,2024-10-08,Catheter Tip,Staphylococcus aureus,Daptomycin,0.29,S
+MRN_3604,ACC_10185,2024-10-08,Catheter Tip,Staphylococcus aureus,Linezolid,2.83,R
+MRN_7499,ACC_27872,2024-10-03,Blood,Acinetobacter baumannii,Colistin,3.73,R
+MRN_7499,ACC_27872,2024-10-03,Blood,Acinetobacter baumannii,Meropenem,3.55,R
+MRN_7499,ACC_27872,2024-10-03,Blood,Acinetobacter baumannii,Ampicillin/Sulbactam,2.24,R
+MRN_7499,ACC_27872,2024-10-03,Blood,Acinetobacter baumannii,Tigecycline,3.81,R
+MRN_3659,ACC_45410,2024-09-19,Catheter Tip,Candida albicans,Fluconazole,1.54,I
+MRN_3659,ACC_45410,2024-09-19,Catheter Tip,Candida albicans,Voriconazole,0.99,S
+MRN_3659,ACC_45410,2024-09-19,Catheter Tip,Candida albicans,Amphotericin B,3.74,R
+MRN_3659,ACC_45410,2024-09-19,Catheter Tip,Candida albicans,Caspofungin,1.56,I
+MRN_8441,ACC_56369,2024-06-19,Urine,Pseudomonas aeruginosa,Ceftazidime,2.89,R
+MRN_8441,ACC_56369,2024-06-19,Urine,Pseudomonas aeruginosa,Meropenem,3.78,R
+MRN_8441,ACC_56369,2024-06-19,Urine,Pseudomonas aeruginosa,Piperacillin/Tazobactam,1.24,I
+MRN_8441,ACC_56369,2024-06-19,Urine,Pseudomonas aeruginosa,Colistin,2.07,R
+MRN_9902,ACC_84055,2024-06-29,Sputum,E. coli,Ciprofloxacin,0.35,S
+MRN_9902,ACC_84055,2024-06-29,Sputum,E. coli,Amoxicillin/Clavulanate,3.69,R
+MRN_9902,ACC_84055,2024-06-29,Sputum,E. coli,Ceftriaxone,0.34,S
+MRN_9902,ACC_84055,2024-06-29,Sputum,E. coli,Meropenem,1.87,I
+MRN_8299,ACC_26143,2024-09-03,Urine,Candida albicans,Fluconazole,0.96,S
+MRN_8299,ACC_26143,2024-09-03,Urine,Candida albicans,Voriconazole,2.66,R
+MRN_8299,ACC_26143,2024-09-03,Urine,Candida albicans,Amphotericin B,1.34,I
+MRN_8299,ACC_26143,2024-09-03,Urine,Candida albicans,Caspofungin,1.36,I
+MRN_6375,ACC_57390,2024-06-13,Catheter Tip,Pseudomonas aeruginosa,Ceftazidime,2.03,R
+MRN_6375,ACC_57390,2024-06-13,Catheter Tip,Pseudomonas aeruginosa,Meropenem,2.86,R
+MRN_6375,ACC_57390,2024-06-13,Catheter Tip,Pseudomonas aeruginosa,Piperacillin/Tazobactam,2.89,R
+MRN_6375,ACC_57390,2024-06-13,Catheter Tip,Pseudomonas aeruginosa,Colistin,3.85,R
+MRN_1412,ACC_17537,2024-09-06,Catheter Tip,E. coli,Ciprofloxacin,3.16,R
+MRN_1412,ACC_17537,2024-09-06,Catheter Tip,E. coli,Amoxicillin/Clavulanate,1.51,I
+MRN_1412,ACC_17537,2024-09-06,Catheter Tip,E. coli,Ceftriaxone,1.14,I
+MRN_1412,ACC_17537,2024-09-06,Catheter Tip,E. coli,Meropenem,3.33,R
+MRN_1443,ACC_25886,2024-09-04,Urine,Klebsiella pneumoniae,Ceftriaxone,2.1,R
+MRN_1443,ACC_25886,2024-09-04,Urine,Klebsiella pneumoniae,Meropenem,1.75,I
+MRN_1443,ACC_25886,2024-09-04,Urine,Klebsiella pneumoniae,Ceftazidime,3.58,R
+MRN_1443,ACC_25886,2024-09-04,Urine,Klebsiella pneumoniae,Gentamicin,2.3,R
+MRN_9761,ACC_14814,2024-08-18,Blood,Klebsiella pneumoniae,Ceftriaxone,0.41,S
+MRN_9761,ACC_14814,2024-08-18,Blood,Klebsiella pneumoniae,Meropenem,3.44,R
+MRN_9761,ACC_14814,2024-08-18,Blood,Klebsiella pneumoniae,Ceftazidime,0.46,S
+MRN_9761,ACC_14814,2024-08-18,Blood,Klebsiella pneumoniae,Gentamicin,1.98,I
+MRN_9037,ACC_34349,2024-06-22,Blood,Pseudomonas aeruginosa,Ceftazidime,3.12,R
+MRN_9037,ACC_34349,2024-06-22,Blood,Pseudomonas aeruginosa,Meropenem,1.14,I
+MRN_9037,ACC_34349,2024-06-22,Blood,Pseudomonas aeruginosa,Piperacillin/Tazobactam,3.63,R
+MRN_9037,ACC_34349,2024-06-22,Blood,Pseudomonas aeruginosa,Colistin,1.51,I
+MRN_7414,ACC_66052,2024-08-09,Wound Swab,Staphylococcus aureus,Vancomycin,3.13,R
+MRN_7414,ACC_66052,2024-08-09,Wound Swab,Staphylococcus aureus,Oxacillin,0.85,S
+MRN_7414,ACC_66052,2024-08-09,Wound Swab,Staphylococcus aureus,Daptomycin,2.14,R
+MRN_7414,ACC_66052,2024-08-09,Wound Swab,Staphylococcus aureus,Linezolid,2.94,R
+MRN_1628,ACC_61784,2024-10-04,Catheter Tip,Enterococcus faecium,Vancomycin,2.9,R
+MRN_1628,ACC_61784,2024-10-04,Catheter Tip,Enterococcus faecium,Linezolid,2.48,R
+MRN_1628,ACC_61784,2024-10-04,Catheter Tip,Enterococcus faecium,Daptomycin,1.88,I
+MRN_1628,ACC_61784,2024-10-04,Catheter Tip,Enterococcus faecium,Ampicillin,1.62,I
+MRN_2245,ACC_85163,2024-08-13,Blood,Candida albicans,Fluconazole,1.29,I
+MRN_2245,ACC_85163,2024-08-13,Blood,Candida albicans,Voriconazole,1.5,I
+MRN_2245,ACC_85163,2024-08-13,Blood,Candida albicans,Amphotericin B,1.09,I
+MRN_2245,ACC_85163,2024-08-13,Blood,Candida albicans,Caspofungin,3.61,R
+MRN_5252,ACC_78874,2024-10-01,Wound Swab,E. coli,Ciprofloxacin,3.48,R
+MRN_5252,ACC_78874,2024-10-01,Wound Swab,E. coli,Amoxicillin/Clavulanate,2.39,R
+MRN_5252,ACC_78874,2024-10-01,Wound Swab,E. coli,Ceftriaxone,1.36,I
+MRN_5252,ACC_78874,2024-10-01,Wound Swab,E. coli,Meropenem,0.45,S
+MRN_7748,ACC_22160,2024-05-08,Catheter Tip,Acinetobacter baumannii,Colistin,1.37,I
+MRN_7748,ACC_22160,2024-05-08,Catheter Tip,Acinetobacter baumannii,Meropenem,0.19,S
+MRN_7748,ACC_22160,2024-05-08,Catheter Tip,Acinetobacter baumannii,Ampicillin/Sulbactam,3.78,R
+MRN_7748,ACC_22160,2024-05-08,Catheter Tip,Acinetobacter baumannii,Tigecycline,2.57,R
+MRN_1345,ACC_29207,2024-09-04,Sputum,Pseudomonas aeruginosa,Ceftazidime,1.53,I
+MRN_1345,ACC_29207,2024-09-04,Sputum,Pseudomonas aeruginosa,Meropenem,3.22,R
+MRN_1345,ACC_29207,2024-09-04,Sputum,Pseudomonas aeruginosa,Piperacillin/Tazobactam,1.08,I
+MRN_1345,ACC_29207,2024-09-04,Sputum,Pseudomonas aeruginosa,Colistin,0.27,S
+MRN_6262,ACC_34546,2024-07-22,Sputum,Staphylococcus aureus,Vancomycin,2.72,R
+MRN_6262,ACC_34546,2024-07-22,Sputum,Staphylococcus aureus,Oxacillin,3.05,R
+MRN_6262,ACC_34546,2024-07-22,Sputum,Staphylococcus aureus,Daptomycin,2.98,R
+MRN_6262,ACC_34546,2024-07-22,Sputum,Staphylococcus aureus,Linezolid,1.29,I
+MRN_9750,ACC_46420,2024-08-12,Urine,E. coli,Ciprofloxacin,2.32,R
+MRN_9750,ACC_46420,2024-08-12,Urine,E. coli,Amoxicillin/Clavulanate,2.3,R
+MRN_9750,ACC_46420,2024-08-12,Urine,E. coli,Ceftriaxone,0.98,S
+MRN_9750,ACC_46420,2024-08-12,Urine,E. coli,Meropenem,2.83,R
+MRN_7857,ACC_81599,2024-07-20,Catheter Tip,Enterococcus faecium,Vancomycin,3.0,R
+MRN_7857,ACC_81599,2024-07-20,Catheter Tip,Enterococcus faecium,Linezolid,3.95,R
+MRN_7857,ACC_81599,2024-07-20,Catheter Tip,Enterococcus faecium,Daptomycin,3.97,R
+MRN_7857,ACC_81599,2024-07-20,Catheter Tip,Enterococcus faecium,Ampicillin,2.04,R
+MRN_6846,ACC_90577,2024-06-08,Blood,Klebsiella pneumoniae,Ceftriaxone,1.04,I
+MRN_6846,ACC_90577,2024-06-08,Blood,Klebsiella pneumoniae,Meropenem,1.91,I
+MRN_6846,ACC_90577,2024-06-08,Blood,Klebsiella pneumoniae,Ceftazidime,1.56,I
+MRN_6846,ACC_90577,2024-06-08,Blood,Klebsiella pneumoniae,Gentamicin,0.23,S
+MRN_7969,ACC_50323,2024-06-04,Blood,Klebsiella pneumoniae,Ceftriaxone,0.46,S
+MRN_7969,ACC_50323,2024-06-04,Blood,Klebsiella pneumoniae,Meropenem,3.42,R
+MRN_7969,ACC_50323,2024-06-04,Blood,Klebsiella pneumoniae,Ceftazidime,3.79,R
+MRN_7969,ACC_50323,2024-06-04,Blood,Klebsiella pneumoniae,Gentamicin,2.05,R
+MRN_1897,ACC_59126,2024-07-21,Sputum,Acinetobacter baumannii,Colistin,0.25,S
+MRN_1897,ACC_59126,2024-07-21,Sputum,Acinetobacter baumannii,Meropenem,2.46,R
+MRN_1897,ACC_59126,2024-07-21,Sputum,Acinetobacter baumannii,Ampicillin/Sulbactam,2.21,R
+MRN_1897,ACC_59126,2024-07-21,Sputum,Acinetobacter baumannii,Tigecycline,2.16,R
+MRN_1214,ACC_60736,2024-07-06,Urine,Candida albicans,Fluconazole,0.45,S
+MRN_1214,ACC_60736,2024-07-06,Urine,Candida albicans,Voriconazole,2.02,R
+MRN_1214,ACC_60736,2024-07-06,Urine,Candida albicans,Amphotericin B,1.76,I
+MRN_1214,ACC_60736,2024-07-06,Urine,Candida albicans,Caspofungin,2.95,R
+MRN_4840,ACC_91246,2024-06-06,Catheter Tip,Pseudomonas aeruginosa,Ceftazidime,2.9,R
+MRN_4840,ACC_91246,2024-06-06,Catheter Tip,Pseudomonas aeruginosa,Meropenem,3.34,R
+MRN_4840,ACC_91246,2024-06-06,Catheter Tip,Pseudomonas aeruginosa,Piperacillin/Tazobactam,0.42,S
+MRN_4840,ACC_91246,2024-06-06,Catheter Tip,Pseudomonas aeruginosa,Colistin,3.96,R
+MRN_9501,ACC_82107,2024-06-09,Sputum,Candida albicans,Fluconazole,2.38,R
+MRN_9501,ACC_82107,2024-06-09,Sputum,Candida albicans,Voriconazole,2.06,R
+MRN_9501,ACC_82107,2024-06-09,Sputum,Candida albicans,Amphotericin B,3.56,R
+MRN_9501,ACC_82107,2024-06-09,Sputum,Candida albicans,Caspofungin,3.67,R
+MRN_7868,ACC_14761,2024-07-13,Wound Swab,Candida albicans,Fluconazole,3.53,R
+MRN_7868,ACC_14761,2024-07-13,Wound Swab,Candida albicans,Voriconazole,3.55,R
+MRN_7868,ACC_14761,2024-07-13,Wound Swab,Candida albicans,Amphotericin B,2.71,R
+MRN_7868,ACC_14761,2024-07-13,Wound Swab,Candida albicans,Caspofungin,1.33,I
+MRN_6108,ACC_19747,2024-07-16,Wound Swab,E. coli,Ciprofloxacin,2.18,R
+MRN_6108,ACC_19747,2024-07-16,Wound Swab,E. coli,Amoxicillin/Clavulanate,0.9,S
+MRN_6108,ACC_19747,2024-07-16,Wound Swab,E. coli,Ceftriaxone,1.08,I
+MRN_6108,ACC_19747,2024-07-16,Wound Swab,E. coli,Meropenem,0.31,S
+MRN_3517,ACC_14951,2024-09-03,Catheter Tip,Serratia marcescens,Ceftriaxone,1.68,I
+MRN_3517,ACC_14951,2024-09-03,Catheter Tip,Serratia marcescens,Meropenem,3.12,R
+MRN_3517,ACC_14951,2024-09-03,Catheter Tip,Serratia marcescens,Gentamicin,3.48,R
+MRN_3517,ACC_14951,2024-09-03,Catheter Tip,Serratia marcescens,Ciprofloxacin,1.28,I
+MRN_8613,ACC_57651,2024-09-06,Catheter Tip,E. coli,Ciprofloxacin,2.14,R
+MRN_8613,ACC_57651,2024-09-06,Catheter Tip,E. coli,Amoxicillin/Clavulanate,1.25,I
+MRN_8613,ACC_57651,2024-09-06,Catheter Tip,E. coli,Ceftriaxone,2.19,R
+MRN_8613,ACC_57651,2024-09-06,Catheter Tip,E. coli,Meropenem,3.04,R
+MRN_9304,ACC_99922,2024-07-28,Blood,Pseudomonas aeruginosa,Ceftazidime,2.51,R
+MRN_9304,ACC_99922,2024-07-28,Blood,Pseudomonas aeruginosa,Meropenem,1.59,I
+MRN_9304,ACC_99922,2024-07-28,Blood,Pseudomonas aeruginosa,Piperacillin/Tazobactam,1.3,I
+MRN_9304,ACC_99922,2024-07-28,Blood,Pseudomonas aeruginosa,Colistin,0.5,S
+MRN_4356,ACC_15172,2024-08-27,Blood,Klebsiella pneumoniae,Ceftriaxone,2.36,R
+MRN_4356,ACC_15172,2024-08-27,Blood,Klebsiella pneumoniae,Meropenem,2.94,R
+MRN_4356,ACC_15172,2024-08-27,Blood,Klebsiella pneumoniae,Ceftazidime,1.15,I
+MRN_4356,ACC_15172,2024-08-27,Blood,Klebsiella pneumoniae,Gentamicin,3.06,R
+MRN_3285,ACC_25747,2024-09-08,Wound Swab,Pseudomonas aeruginosa,Ceftazidime,3.0,R
+MRN_3285,ACC_25747,2024-09-08,Wound Swab,Pseudomonas aeruginosa,Meropenem,0.21,S
+MRN_3285,ACC_25747,2024-09-08,Wound Swab,Pseudomonas aeruginosa,Piperacillin/Tazobactam,0.69,S
+MRN_3285,ACC_25747,2024-09-08,Wound Swab,Pseudomonas aeruginosa,Colistin,3.06,R
+MRN_4412,ACC_36632,2024-04-29,Catheter Tip,Pseudomonas aeruginosa,Ceftazidime,1.36,I
+MRN_4412,ACC_36632,2024-04-29,Catheter Tip,Pseudomonas aeruginosa,Meropenem,2.47,R
+MRN_4412,ACC_36632,2024-04-29,Catheter Tip,Pseudomonas aeruginosa,Piperacillin/Tazobactam,1.74,I
+MRN_4412,ACC_36632,2024-04-29,Catheter Tip,Pseudomonas aeruginosa,Colistin,2.79,R
+MRN_7681,ACC_72304,2024-06-22,Catheter Tip,Klebsiella pneumoniae,Ceftriaxone,0.9,S
+MRN_7681,ACC_72304,2024-06-22,Catheter Tip,Klebsiella pneumoniae,Meropenem,2.39,R
+MRN_7681,ACC_72304,2024-06-22,Catheter Tip,Klebsiella pneumoniae,Ceftazidime,1.9,I
+MRN_7681,ACC_72304,2024-06-22,Catheter Tip,Klebsiella pneumoniae,Gentamicin,2.44,R
+MRN_5683,ACC_98040,2024-07-06,Sputum,Klebsiella pneumoniae,Ceftriaxone,0.62,S
+MRN_5683,ACC_98040,2024-07-06,Sputum,Klebsiella pneumoniae,Meropenem,0.26,S
+MRN_5683,ACC_98040,2024-07-06,Sputum,Klebsiella pneumoniae,Ceftazidime,0.48,S
+MRN_5683,ACC_98040,2024-07-06,Sputum,Klebsiella pneumoniae,Gentamicin,0.16,S
+MRN_5406,ACC_48245,2024-05-28,Blood,Staphylococcus aureus,Vancomycin,2.77,R
+MRN_5406,ACC_48245,2024-05-28,Blood,Staphylococcus aureus,Oxacillin,1.81,I
+MRN_5406,ACC_48245,2024-05-28,Blood,Staphylococcus aureus,Daptomycin,3.51,R
+MRN_5406,ACC_48245,2024-05-28,Blood,Staphylococcus aureus,Linezolid,2.33,R
+MRN_7602,ACC_74113,2024-07-23,Catheter Tip,Staphylococcus aureus,Vancomycin,3.08,R
+MRN_7602,ACC_74113,2024-07-23,Catheter Tip,Staphylococcus aureus,Oxacillin,1.74,I
+MRN_7602,ACC_74113,2024-07-23,Catheter Tip,Staphylococcus aureus,Daptomycin,0.4,S
+MRN_7602,ACC_74113,2024-07-23,Catheter Tip,Staphylococcus aureus,Linezolid,0.31,S
+MRN_8859,ACC_52535,2024-09-16,Catheter Tip,Serratia marcescens,Ceftriaxone,3.98,R
+MRN_8859,ACC_52535,2024-09-16,Catheter Tip,Serratia marcescens,Meropenem,2.5,R
+MRN_8859,ACC_52535,2024-09-16,Catheter Tip,Serratia marcescens,Gentamicin,2.05,R
+MRN_8859,ACC_52535,2024-09-16,Catheter Tip,Serratia marcescens,Ciprofloxacin,1.82,I
+MRN_5541,ACC_51985,2024-09-04,Wound Swab,Enterococcus faecium,Vancomycin,0.46,S
+MRN_5541,ACC_51985,2024-09-04,Wound Swab,Enterococcus faecium,Linezolid,3.65,R
+MRN_5541,ACC_51985,2024-09-04,Wound Swab,Enterococcus faecium,Daptomycin,1.02,I
+MRN_5541,ACC_51985,2024-09-04,Wound Swab,Enterococcus faecium,Ampicillin,2.56,R
+MRN_1553,ACC_48153,2024-07-13,Urine,Staphylococcus aureus,Vancomycin,2.66,R
+MRN_1553,ACC_48153,2024-07-13,Urine,Staphylococcus aureus,Oxacillin,0.9,S
+MRN_1553,ACC_48153,2024-07-13,Urine,Staphylococcus aureus,Daptomycin,2.17,R
+MRN_1553,ACC_48153,2024-07-13,Urine,Staphylococcus aureus,Linezolid,3.7,R
+MRN_9041,ACC_78449,2024-10-12,Urine,Serratia marcescens,Ceftriaxone,1.45,I
+MRN_9041,ACC_78449,2024-10-12,Urine,Serratia marcescens,Meropenem,3.7,R
+MRN_9041,ACC_78449,2024-10-12,Urine,Serratia marcescens,Gentamicin,3.27,R
+MRN_9041,ACC_78449,2024-10-12,Urine,Serratia marcescens,Ciprofloxacin,0.39,S
+MRN_4126,ACC_81654,2024-07-14,Wound Swab,E. coli,Ciprofloxacin,3.16,R
+MRN_4126,ACC_81654,2024-07-14,Wound Swab,E. coli,Amoxicillin/Clavulanate,0.15,S
+MRN_4126,ACC_81654,2024-07-14,Wound Swab,E. coli,Ceftriaxone,2.75,R
+MRN_4126,ACC_81654,2024-07-14,Wound Swab,E. coli,Meropenem,0.89,S
+MRN_5544,ACC_77725,2024-08-20,Wound Swab,Enterococcus faecium,Vancomycin,2.23,R
+MRN_5544,ACC_77725,2024-08-20,Wound Swab,Enterococcus faecium,Linezolid,0.75,S
+MRN_5544,ACC_77725,2024-08-20,Wound Swab,Enterococcus faecium,Daptomycin,0.63,S
+MRN_5544,ACC_77725,2024-08-20,Wound Swab,Enterococcus faecium,Ampicillin,1.75,I
+MRN_9192,ACC_13341,2024-09-27,Urine,Acinetobacter baumannii,Colistin,2.34,R
+MRN_9192,ACC_13341,2024-09-27,Urine,Acinetobacter baumannii,Meropenem,0.88,S
+MRN_9192,ACC_13341,2024-09-27,Urine,Acinetobacter baumannii,Ampicillin/Sulbactam,1.36,I
+MRN_9192,ACC_13341,2024-09-27,Urine,Acinetobacter baumannii,Tigecycline,3.78,R
+MRN_9013,ACC_44474,2024-08-14,Wound Swab,Staphylococcus aureus,Vancomycin,1.42,I
+MRN_9013,ACC_44474,2024-08-14,Wound Swab,Staphylococcus aureus,Oxacillin,1.16,I
+MRN_9013,ACC_44474,2024-08-14,Wound Swab,Staphylococcus aureus,Daptomycin,0.27,S
+MRN_9013,ACC_44474,2024-08-14,Wound Swab,Staphylococcus aureus,Linezolid,2.39,R
+MRN_6982,ACC_31226,2024-05-27,Wound Swab,Candida albicans,Fluconazole,0.19,S
+MRN_6982,ACC_31226,2024-05-27,Wound Swab,Candida albicans,Voriconazole,2.42,R
+MRN_6982,ACC_31226,2024-05-27,Wound Swab,Candida albicans,Amphotericin B,1.03,I
+MRN_6982,ACC_31226,2024-05-27,Wound Swab,Candida albicans,Caspofungin,2.31,R
+MRN_4300,ACC_91426,2024-09-20,Wound Swab,Candida albicans,Fluconazole,3.89,R
+MRN_4300,ACC_91426,2024-09-20,Wound Swab,Candida albicans,Voriconazole,2.83,R
+MRN_4300,ACC_91426,2024-09-20,Wound Swab,Candida albicans,Amphotericin B,0.22,S
+MRN_4300,ACC_91426,2024-09-20,Wound Swab,Candida albicans,Caspofungin,2.05,R
+MRN_8150,ACC_44672,2024-09-25,Catheter Tip,Enterococcus faecium,Vancomycin,3.41,R
+MRN_8150,ACC_44672,2024-09-25,Catheter Tip,Enterococcus faecium,Linezolid,3.67,R
+MRN_8150,ACC_44672,2024-09-25,Catheter Tip,Enterococcus faecium,Daptomycin,2.61,R
+MRN_8150,ACC_44672,2024-09-25,Catheter Tip,Enterococcus faecium,Ampicillin,3.55,R
+MRN_7005,ACC_29105,2024-09-24,Wound Swab,Acinetobacter baumannii,Colistin,0.37,S
+MRN_7005,ACC_29105,2024-09-24,Wound Swab,Acinetobacter baumannii,Meropenem,3.51,R
+MRN_7005,ACC_29105,2024-09-24,Wound Swab,Acinetobacter baumannii,Ampicillin/Sulbactam,0.77,S
+MRN_7005,ACC_29105,2024-09-24,Wound Swab,Acinetobacter baumannii,Tigecycline,3.04,R
+MRN_9098,ACC_60565,2024-08-10,Sputum,Staphylococcus aureus,Vancomycin,3.54,R
+MRN_9098,ACC_60565,2024-08-10,Sputum,Staphylococcus aureus,Oxacillin,1.59,I
+MRN_9098,ACC_60565,2024-08-10,Sputum,Staphylococcus aureus,Daptomycin,2.63,R
+MRN_9098,ACC_60565,2024-08-10,Sputum,Staphylococcus aureus,Linezolid,0.98,S
+MRN_4184,ACC_62005,2024-07-28,Urine,E. coli,Ciprofloxacin,3.22,R
+MRN_4184,ACC_62005,2024-07-28,Urine,E. coli,Amoxicillin/Clavulanate,1.97,I
+MRN_4184,ACC_62005,2024-07-28,Urine,E. coli,Ceftriaxone,1.44,I
+MRN_4184,ACC_62005,2024-07-28,Urine,E. coli,Meropenem,3.25,R
+MRN_8750,ACC_20354,2024-09-28,Catheter Tip,Serratia marcescens,Ceftriaxone,1.71,I
+MRN_8750,ACC_20354,2024-09-28,Catheter Tip,Serratia marcescens,Meropenem,1.17,I
+MRN_8750,ACC_20354,2024-09-28,Catheter Tip,Serratia marcescens,Gentamicin,2.48,R
+MRN_8750,ACC_20354,2024-09-28,Catheter Tip,Serratia marcescens,Ciprofloxacin,3.33,R
+MRN_7650,ACC_95798,2024-07-12,Urine,Acinetobacter baumannii,Colistin,3.19,R
+MRN_7650,ACC_95798,2024-07-12,Urine,Acinetobacter baumannii,Meropenem,3.29,R
+MRN_7650,ACC_95798,2024-07-12,Urine,Acinetobacter baumannii,Ampicillin/Sulbactam,3.58,R
+MRN_7650,ACC_95798,2024-07-12,Urine,Acinetobacter baumannii,Tigecycline,1.07,I
+MRN_9049,ACC_18842,2024-07-18,Catheter Tip,Acinetobacter baumannii,Colistin,3.54,R
+MRN_9049,ACC_18842,2024-07-18,Catheter Tip,Acinetobacter baumannii,Meropenem,3.69,R
+MRN_9049,ACC_18842,2024-07-18,Catheter Tip,Acinetobacter baumannii,Ampicillin/Sulbactam,3.91,R
+MRN_9049,ACC_18842,2024-07-18,Catheter Tip,Acinetobacter baumannii,Tigecycline,1.01,I
+MRN_9784,ACC_63318,2024-08-11,Urine,Enterococcus faecium,Vancomycin,1.75,I
+MRN_9784,ACC_63318,2024-08-11,Urine,Enterococcus faecium,Linezolid,3.61,R
+MRN_9784,ACC_63318,2024-08-11,Urine,Enterococcus faecium,Daptomycin,3.26,R
+MRN_9784,ACC_63318,2024-08-11,Urine,Enterococcus faecium,Ampicillin,0.88,S
+MRN_3505,ACC_80295,2024-08-12,Urine,Serratia marcescens,Ceftriaxone,1.3,I
+MRN_3505,ACC_80295,2024-08-12,Urine,Serratia marcescens,Meropenem,2.43,R
+MRN_3505,ACC_80295,2024-08-12,Urine,Serratia marcescens,Gentamicin,0.38,S
+MRN_3505,ACC_80295,2024-08-12,Urine,Serratia marcescens,Ciprofloxacin,1.45,I
+MRN_4156,ACC_91613,2024-07-07,Catheter Tip,Staphylococcus aureus,Vancomycin,3.19,R
+MRN_4156,ACC_91613,2024-07-07,Catheter Tip,Staphylococcus aureus,Oxacillin,2.76,R
+MRN_4156,ACC_91613,2024-07-07,Catheter Tip,Staphylococcus aureus,Daptomycin,1.63,I
+MRN_4156,ACC_91613,2024-07-07,Catheter Tip,Staphylococcus aureus,Linezolid,3.06,R
+MRN_2221,ACC_21651,2024-05-08,Catheter Tip,Klebsiella pneumoniae,Ceftriaxone,2.08,R
+MRN_2221,ACC_21651,2024-05-08,Catheter Tip,Klebsiella pneumoniae,Meropenem,3.63,R
+MRN_2221,ACC_21651,2024-05-08,Catheter Tip,Klebsiella pneumoniae,Ceftazidime,3.98,R
+MRN_2221,ACC_21651,2024-05-08,Catheter Tip,Klebsiella pneumoniae,Gentamicin,1.76,I
+MRN_6950,ACC_24587,2024-07-01,Blood,Pseudomonas aeruginosa,Ceftazidime,3.3,R
+MRN_6950,ACC_24587,2024-07-01,Blood,Pseudomonas aeruginosa,Meropenem,2.65,R
+MRN_6950,ACC_24587,2024-07-01,Blood,Pseudomonas aeruginosa,Piperacillin/Tazobactam,3.79,R
+MRN_6950,ACC_24587,2024-07-01,Blood,Pseudomonas aeruginosa,Colistin,3.27,R
+MRN_3478,ACC_95034,2024-05-01,Wound Swab,Enterococcus faecium,Vancomycin,1.92,I
+MRN_3478,ACC_95034,2024-05-01,Wound Swab,Enterococcus faecium,Linezolid,3.53,R
+MRN_3478,ACC_95034,2024-05-01,Wound Swab,Enterococcus faecium,Daptomycin,0.37,S
+MRN_3478,ACC_95034,2024-05-01,Wound Swab,Enterococcus faecium,Ampicillin,2.68,R
+MRN_3178,ACC_95339,2024-09-21,Catheter Tip,Serratia marcescens,Ceftriaxone,2.87,R
+MRN_3178,ACC_95339,2024-09-21,Catheter Tip,Serratia marcescens,Meropenem,2.05,R
+MRN_3178,ACC_95339,2024-09-21,Catheter Tip,Serratia marcescens,Gentamicin,2.55,R
+MRN_3178,ACC_95339,2024-09-21,Catheter Tip,Serratia marcescens,Ciprofloxacin,1.77,I
+MRN_2988,ACC_74280,2024-09-10,Wound Swab,Pseudomonas aeruginosa,Ceftazidime,0.17,S
+MRN_2988,ACC_74280,2024-09-10,Wound Swab,Pseudomonas aeruginosa,Meropenem,2.55,R
+MRN_2988,ACC_74280,2024-09-10,Wound Swab,Pseudomonas aeruginosa,Piperacillin/Tazobactam,0.5,S
+MRN_2988,ACC_74280,2024-09-10,Wound Swab,Pseudomonas aeruginosa,Colistin,1.49,I
+MRN_6286,ACC_60337,2024-06-28,Catheter Tip,Candida albicans,Fluconazole,3.17,R
+MRN_6286,ACC_60337,2024-06-28,Catheter Tip,Candida albicans,Voriconazole,1.45,I
+MRN_6286,ACC_60337,2024-06-28,Catheter Tip,Candida albicans,Amphotericin B,0.46,S
+MRN_6286,ACC_60337,2024-06-28,Catheter Tip,Candida albicans,Caspofungin,1.95,I
+MRN_3605,ACC_89070,2024-09-30,Sputum,Candida albicans,Fluconazole,2.42,R
+MRN_3605,ACC_89070,2024-09-30,Sputum,Candida albicans,Voriconazole,0.55,S
+MRN_3605,ACC_89070,2024-09-30,Sputum,Candida albicans,Amphotericin B,2.02,R
+MRN_3605,ACC_89070,2024-09-30,Sputum,Candida albicans,Caspofungin,2.09,R
+MRN_5191,ACC_62571,2024-04-30,Urine,E. coli,Ciprofloxacin,1.13,I
+MRN_5191,ACC_62571,2024-04-30,Urine,E. coli,Amoxicillin/Clavulanate,0.58,S
+MRN_5191,ACC_62571,2024-04-30,Urine,E. coli,Ceftriaxone,2.62,R
+MRN_5191,ACC_62571,2024-04-30,Urine,E. coli,Meropenem,3.4,R
+MRN_7684,ACC_85140,2024-06-06,Catheter Tip,Serratia marcescens,Ceftriaxone,3.15,R
+MRN_7684,ACC_85140,2024-06-06,Catheter Tip,Serratia marcescens,Meropenem,3.42,R
+MRN_7684,ACC_85140,2024-06-06,Catheter Tip,Serratia marcescens,Gentamicin,1.39,I
+MRN_7684,ACC_85140,2024-06-06,Catheter Tip,Serratia marcescens,Ciprofloxacin,0.84,S
+MRN_2394,ACC_24752,2024-08-28,Catheter Tip,Klebsiella pneumoniae,Ceftriaxone,1.46,I
+MRN_2394,ACC_24752,2024-08-28,Catheter Tip,Klebsiella pneumoniae,Meropenem,0.9,S
+MRN_2394,ACC_24752,2024-08-28,Catheter Tip,Klebsiella pneumoniae,Ceftazidime,2.97,R
+MRN_2394,ACC_24752,2024-08-28,Catheter Tip,Klebsiella pneumoniae,Gentamicin,1.52,I
+MRN_9655,ACC_23224,2024-08-21,Sputum,Staphylococcus aureus,Vancomycin,3.68,R
+MRN_9655,ACC_23224,2024-08-21,Sputum,Staphylococcus aureus,Oxacillin,1.94,I
+MRN_9655,ACC_23224,2024-08-21,Sputum,Staphylococcus aureus,Daptomycin,2.01,R
+MRN_9655,ACC_23224,2024-08-21,Sputum,Staphylococcus aureus,Linezolid,0.4,S
+MRN_9809,ACC_12506,2024-06-06,Catheter Tip,Candida albicans,Fluconazole,0.31,S
+MRN_9809,ACC_12506,2024-06-06,Catheter Tip,Candida albicans,Voriconazole,0.55,S
+MRN_9809,ACC_12506,2024-06-06,Catheter Tip,Candida albicans,Amphotericin B,2.0,I
+MRN_9809,ACC_12506,2024-06-06,Catheter Tip,Candida albicans,Caspofungin,2.97,R
+MRN_8356,ACC_25317,2024-06-29,Sputum,Acinetobacter baumannii,Colistin,1.12,I
+MRN_8356,ACC_25317,2024-06-29,Sputum,Acinetobacter baumannii,Meropenem,2.0,I
+MRN_8356,ACC_25317,2024-06-29,Sputum,Acinetobacter baumannii,Ampicillin/Sulbactam,0.39,S
+MRN_8356,ACC_25317,2024-06-29,Sputum,Acinetobacter baumannii,Tigecycline,0.41,S
+MRN_8103,ACC_57877,2024-07-13,Sputum,Enterococcus faecium,Vancomycin,0.42,S
+MRN_8103,ACC_57877,2024-07-13,Sputum,Enterococcus faecium,Linezolid,0.19,S
+MRN_8103,ACC_57877,2024-07-13,Sputum,Enterococcus faecium,Daptomycin,2.83,R
+MRN_8103,ACC_57877,2024-07-13,Sputum,Enterococcus faecium,Ampicillin,0.56,S
+MRN_1720,ACC_47655,2024-07-16,Wound Swab,E. coli,Ciprofloxacin,3.01,R
+MRN_1720,ACC_47655,2024-07-16,Wound Swab,E. coli,Amoxicillin/Clavulanate,0.25,S
+MRN_1720,ACC_47655,2024-07-16,Wound Swab,E. coli,Ceftriaxone,2.46,R
+MRN_1720,ACC_47655,2024-07-16,Wound Swab,E. coli,Meropenem,2.38,R
+MRN_6830,ACC_63321,2024-10-02,Catheter Tip,E. coli,Ciprofloxacin,0.86,S
+MRN_6830,ACC_63321,2024-10-02,Catheter Tip,E. coli,Amoxicillin/Clavulanate,1.27,I
+MRN_6830,ACC_63321,2024-10-02,Catheter Tip,E. coli,Ceftriaxone,2.8,R
+MRN_6830,ACC_63321,2024-10-02,Catheter Tip,E. coli,Meropenem,3.37,R
+MRN_6837,ACC_59258,2024-09-07,Urine,Staphylococcus aureus,Vancomycin,2.99,R
+MRN_6837,ACC_59258,2024-09-07,Urine,Staphylococcus aureus,Oxacillin,0.11,S
+MRN_6837,ACC_59258,2024-09-07,Urine,Staphylococcus aureus,Daptomycin,3.97,R
+MRN_6837,ACC_59258,2024-09-07,Urine,Staphylococcus aureus,Linezolid,0.44,S
+MRN_9689,ACC_84728,2024-09-05,Wound Swab,Candida albicans,Fluconazole,2.16,R
+MRN_9689,ACC_84728,2024-09-05,Wound Swab,Candida albicans,Voriconazole,1.55,I
+MRN_9689,ACC_84728,2024-09-05,Wound Swab,Candida albicans,Amphotericin B,0.83,S
+MRN_9689,ACC_84728,2024-09-05,Wound Swab,Candida albicans,Caspofungin,3.31,R
+MRN_9022,ACC_15397,2024-07-24,Urine,Serratia marcescens,Ceftriaxone,3.42,R
+MRN_9022,ACC_15397,2024-07-24,Urine,Serratia marcescens,Meropenem,3.63,R
+MRN_9022,ACC_15397,2024-07-24,Urine,Serratia marcescens,Gentamicin,0.18,S
+MRN_9022,ACC_15397,2024-07-24,Urine,Serratia marcescens,Ciprofloxacin,2.47,R
+MRN_1363,ACC_39245,2024-08-22,Urine,E. coli,Ciprofloxacin,1.72,I
+MRN_1363,ACC_39245,2024-08-22,Urine,E. coli,Amoxicillin/Clavulanate,3.11,R
+MRN_1363,ACC_39245,2024-08-22,Urine,E. coli,Ceftriaxone,3.71,R
+MRN_1363,ACC_39245,2024-08-22,Urine,E. coli,Meropenem,3.38,R
+MRN_2024,ACC_50145,2024-07-02,Urine,Serratia marcescens,Ceftriaxone,0.96,S
+MRN_2024,ACC_50145,2024-07-02,Urine,Serratia marcescens,Meropenem,2.83,R
+MRN_2024,ACC_50145,2024-07-02,Urine,Serratia marcescens,Gentamicin,2.97,R
+MRN_2024,ACC_50145,2024-07-02,Urine,Serratia marcescens,Ciprofloxacin,2.08,R
+MRN_5586,ACC_66958,2024-08-19,Catheter Tip,Acinetobacter baumannii,Colistin,0.35,S
+MRN_5586,ACC_66958,2024-08-19,Catheter Tip,Acinetobacter baumannii,Meropenem,2.28,R
+MRN_5586,ACC_66958,2024-08-19,Catheter Tip,Acinetobacter baumannii,Ampicillin/Sulbactam,2.1,R
+MRN_5586,ACC_66958,2024-08-19,Catheter Tip,Acinetobacter baumannii,Tigecycline,2.95,R
+MRN_9551,ACC_10423,2024-08-03,Catheter Tip,Serratia marcescens,Ceftriaxone,0.63,S
+MRN_9551,ACC_10423,2024-08-03,Catheter Tip,Serratia marcescens,Meropenem,0.42,S
+MRN_9551,ACC_10423,2024-08-03,Catheter Tip,Serratia marcescens,Gentamicin,2.46,R
+MRN_9551,ACC_10423,2024-08-03,Catheter Tip,Serratia marcescens,Ciprofloxacin,0.19,S
+MRN_1008,ACC_19154,2024-07-06,Wound Swab,Acinetobacter baumannii,Colistin,2.42,R
+MRN_1008,ACC_19154,2024-07-06,Wound Swab,Acinetobacter baumannii,Meropenem,3.6,R
+MRN_1008,ACC_19154,2024-07-06,Wound Swab,Acinetobacter baumannii,Ampicillin/Sulbactam,2.74,R
+MRN_1008,ACC_19154,2024-07-06,Wound Swab,Acinetobacter baumannii,Tigecycline,1.27,I
+MRN_1398,ACC_47269,2024-09-18,Blood,Enterococcus faecium,Vancomycin,3.36,R
+MRN_1398,ACC_47269,2024-09-18,Blood,Enterococcus faecium,Linezolid,1.19,I
+MRN_1398,ACC_47269,2024-09-18,Blood,Enterococcus faecium,Daptomycin,3.41,R
+MRN_1398,ACC_47269,2024-09-18,Blood,Enterococcus faecium,Ampicillin,3.35,R
+MRN_8475,ACC_29878,2024-08-12,Sputum,Serratia marcescens,Ceftriaxone,3.11,R
+MRN_8475,ACC_29878,2024-08-12,Sputum,Serratia marcescens,Meropenem,2.97,R
+MRN_8475,ACC_29878,2024-08-12,Sputum,Serratia marcescens,Gentamicin,1.84,I
+MRN_8475,ACC_29878,2024-08-12,Sputum,Serratia marcescens,Ciprofloxacin,2.74,R
+MRN_5709,ACC_21082,2024-06-25,Blood,Klebsiella pneumoniae,Ceftriaxone,3.33,R
+MRN_5709,ACC_21082,2024-06-25,Blood,Klebsiella pneumoniae,Meropenem,1.54,I
+MRN_5709,ACC_21082,2024-06-25,Blood,Klebsiella pneumoniae,Ceftazidime,3.2,R
+MRN_5709,ACC_21082,2024-06-25,Blood,Klebsiella pneumoniae,Gentamicin,3.93,R
+MRN_9062,ACC_18361,2024-08-20,Blood,E. coli,Ciprofloxacin,0.19,S
+MRN_9062,ACC_18361,2024-08-20,Blood,E. coli,Amoxicillin/Clavulanate,1.75,I
+MRN_9062,ACC_18361,2024-08-20,Blood,E. coli,Ceftriaxone,1.1,I
+MRN_9062,ACC_18361,2024-08-20,Blood,E. coli,Meropenem,0.75,S
+MRN_6147,ACC_42491,2024-07-06,Sputum,Candida albicans,Fluconazole,1.48,I
+MRN_6147,ACC_42491,2024-07-06,Sputum,Candida albicans,Voriconazole,3.1,R
+MRN_6147,ACC_42491,2024-07-06,Sputum,Candida albicans,Amphotericin B,1.11,I
+MRN_6147,ACC_42491,2024-07-06,Sputum,Candida albicans,Caspofungin,1.54,I
+MRN_4580,ACC_57470,2024-05-19,Sputum,Staphylococcus aureus,Vancomycin,0.12,S
+MRN_4580,ACC_57470,2024-05-19,Sputum,Staphylococcus aureus,Oxacillin,3.1,R
+MRN_4580,ACC_57470,2024-05-19,Sputum,Staphylococcus aureus,Daptomycin,1.02,I
+MRN_4580,ACC_57470,2024-05-19,Sputum,Staphylococcus aureus,Linezolid,1.08,I
+MRN_4242,ACC_30558,2024-05-20,Catheter Tip,Serratia marcescens,Ceftriaxone,3.17,R
+MRN_4242,ACC_30558,2024-05-20,Catheter Tip,Serratia marcescens,Meropenem,3.08,R
+MRN_4242,ACC_30558,2024-05-20,Catheter Tip,Serratia marcescens,Gentamicin,0.64,S
+MRN_4242,ACC_30558,2024-05-20,Catheter Tip,Serratia marcescens,Ciprofloxacin,0.89,S
+MRN_9824,ACC_90705,2024-09-09,Sputum,Staphylococcus aureus,Vancomycin,3.71,R
+MRN_9824,ACC_90705,2024-09-09,Sputum,Staphylococcus aureus,Oxacillin,0.37,S
+MRN_9824,ACC_90705,2024-09-09,Sputum,Staphylococcus aureus,Daptomycin,2.46,R
+MRN_9824,ACC_90705,2024-09-09,Sputum,Staphylococcus aureus,Linezolid,1.88,I
+MRN_9388,ACC_90461,2024-06-16,Urine,E. coli,Ciprofloxacin,0.84,S
+MRN_9388,ACC_90461,2024-06-16,Urine,E. coli,Amoxicillin/Clavulanate,3.37,R
+MRN_9388,ACC_90461,2024-06-16,Urine,E. coli,Ceftriaxone,2.8,R
+MRN_9388,ACC_90461,2024-06-16,Urine,E. coli,Meropenem,2.8,R
+MRN_3741,ACC_24374,2024-04-26,Urine,E. coli,Ciprofloxacin,3.84,R
+MRN_3741,ACC_24374,2024-04-26,Urine,E. coli,Amoxicillin/Clavulanate,1.97,I
+MRN_3741,ACC_24374,2024-04-26,Urine,E. coli,Ceftriaxone,1.58,I
+MRN_3741,ACC_24374,2024-04-26,Urine,E. coli,Meropenem,3.38,R
+MRN_5407,ACC_96990,2024-06-08,Urine,Enterococcus faecium,Vancomycin,0.46,S
+MRN_5407,ACC_96990,2024-06-08,Urine,Enterococcus faecium,Linezolid,3.65,R
+MRN_5407,ACC_96990,2024-06-08,Urine,Enterococcus faecium,Daptomycin,1.54,I
+MRN_5407,ACC_96990,2024-06-08,Urine,Enterococcus faecium,Ampicillin,3.34,R
+MRN_1627,ACC_18727,2024-05-24,Urine,Pseudomonas aeruginosa,Ceftazidime,1.49,I
+MRN_1627,ACC_18727,2024-05-24,Urine,Pseudomonas aeruginosa,Meropenem,3.79,R
+MRN_1627,ACC_18727,2024-05-24,Urine,Pseudomonas aeruginosa,Piperacillin/Tazobactam,0.4,S
+MRN_1627,ACC_18727,2024-05-24,Urine,Pseudomonas aeruginosa,Colistin,3.09,R
+MRN_8871,ACC_62174,2024-05-18,Blood,Staphylococcus aureus,Vancomycin,2.17,R
+MRN_8871,ACC_62174,2024-05-18,Blood,Staphylococcus aureus,Oxacillin,3.56,R
+MRN_8871,ACC_62174,2024-05-18,Blood,Staphylococcus aureus,Daptomycin,2.45,R
+MRN_8871,ACC_62174,2024-05-18,Blood,Staphylococcus aureus,Linezolid,2.74,R
+MRN_5181,ACC_51422,2024-05-21,Catheter Tip,Candida albicans,Fluconazole,2.36,R
+MRN_5181,ACC_51422,2024-05-21,Catheter Tip,Candida albicans,Voriconazole,2.99,R
+MRN_5181,ACC_51422,2024-05-21,Catheter Tip,Candida albicans,Amphotericin B,0.52,S
+MRN_5181,ACC_51422,2024-05-21,Catheter Tip,Candida albicans,Caspofungin,3.67,R
+MRN_3343,ACC_30281,2024-08-04,Wound Swab,Klebsiella pneumoniae,Ceftriaxone,1.9,I
+MRN_3343,ACC_30281,2024-08-04,Wound Swab,Klebsiella pneumoniae,Meropenem,1.3,I
+MRN_3343,ACC_30281,2024-08-04,Wound Swab,Klebsiella pneumoniae,Ceftazidime,3.96,R
+MRN_3343,ACC_30281,2024-08-04,Wound Swab,Klebsiella pneumoniae,Gentamicin,0.49,S
+MRN_4787,ACC_62746,2024-05-30,Urine,Serratia marcescens,Ceftriaxone,1.9,I
+MRN_4787,ACC_62746,2024-05-30,Urine,Serratia marcescens,Meropenem,0.98,S
+MRN_4787,ACC_62746,2024-05-30,Urine,Serratia marcescens,Gentamicin,1.38,I
+MRN_4787,ACC_62746,2024-05-30,Urine,Serratia marcescens,Ciprofloxacin,1.06,I
+MRN_7695,ACC_94727,2024-07-07,Blood,Staphylococcus aureus,Vancomycin,2.88,R
+MRN_7695,ACC_94727,2024-07-07,Blood,Staphylococcus aureus,Oxacillin,3.55,R
+MRN_7695,ACC_94727,2024-07-07,Blood,Staphylococcus aureus,Daptomycin,1.53,I
+MRN_7695,ACC_94727,2024-07-07,Blood,Staphylococcus aureus,Linezolid,1.85,I
+MRN_5300,ACC_63626,2024-09-06,Blood,Klebsiella pneumoniae,Ceftriaxone,1.31,I
+MRN_5300,ACC_63626,2024-09-06,Blood,Klebsiella pneumoniae,Meropenem,1.62,I
+MRN_5300,ACC_63626,2024-09-06,Blood,Klebsiella pneumoniae,Ceftazidime,3.45,R
+MRN_5300,ACC_63626,2024-09-06,Blood,Klebsiella pneumoniae,Gentamicin,3.79,R
+MRN_8104,ACC_82388,2024-09-12,Wound Swab,Enterococcus faecium,Vancomycin,2.89,R
+MRN_8104,ACC_82388,2024-09-12,Wound Swab,Enterococcus faecium,Linezolid,2.63,R
+MRN_8104,ACC_82388,2024-09-12,Wound Swab,Enterococcus faecium,Daptomycin,0.69,S
+MRN_8104,ACC_82388,2024-09-12,Wound Swab,Enterococcus faecium,Ampicillin,1.64,I
+MRN_9482,ACC_51437,2024-08-18,Wound Swab,E. coli,Ciprofloxacin,3.93,R
+MRN_9482,ACC_51437,2024-08-18,Wound Swab,E. coli,Amoxicillin/Clavulanate,1.22,I
+MRN_9482,ACC_51437,2024-08-18,Wound Swab,E. coli,Ceftriaxone,3.32,R
+MRN_9482,ACC_51437,2024-08-18,Wound Swab,E. coli,Meropenem,1.64,I
+MRN_3937,ACC_70658,2024-08-30,Wound Swab,Klebsiella pneumoniae,Ceftriaxone,3.04,R
+MRN_3937,ACC_70658,2024-08-30,Wound Swab,Klebsiella pneumoniae,Meropenem,0.24,S
+MRN_3937,ACC_70658,2024-08-30,Wound Swab,Klebsiella pneumoniae,Ceftazidime,1.22,I
+MRN_3937,ACC_70658,2024-08-30,Wound Swab,Klebsiella pneumoniae,Gentamicin,3.41,R
+MRN_9683,ACC_99067,2024-05-12,Sputum,Acinetobacter baumannii,Colistin,1.13,I
+MRN_9683,ACC_99067,2024-05-12,Sputum,Acinetobacter baumannii,Meropenem,0.58,S
+MRN_9683,ACC_99067,2024-05-12,Sputum,Acinetobacter baumannii,Ampicillin/Sulbactam,0.92,S
+MRN_9683,ACC_99067,2024-05-12,Sputum,Acinetobacter baumannii,Tigecycline,1.13,I
+MRN_4646,ACC_38579,2024-06-28,Urine,Acinetobacter baumannii,Colistin,3.89,R
+MRN_4646,ACC_38579,2024-06-28,Urine,Acinetobacter baumannii,Meropenem,2.82,R
+MRN_4646,ACC_38579,2024-06-28,Urine,Acinetobacter baumannii,Ampicillin/Sulbactam,0.95,S
+MRN_4646,ACC_38579,2024-06-28,Urine,Acinetobacter baumannii,Tigecycline,3.63,R
+MRN_7724,ACC_80614,2024-10-12,Urine,Staphylococcus aureus,Vancomycin,0.5,S
+MRN_7724,ACC_80614,2024-10-12,Urine,Staphylococcus aureus,Oxacillin,3.62,R
+MRN_7724,ACC_80614,2024-10-12,Urine,Staphylococcus aureus,Daptomycin,0.19,S
+MRN_7724,ACC_80614,2024-10-12,Urine,Staphylococcus aureus,Linezolid,3.98,R
+MRN_1812,ACC_80018,2024-05-26,Urine,Candida albicans,Fluconazole,3.42,R
+MRN_1812,ACC_80018,2024-05-26,Urine,Candida albicans,Voriconazole,2.19,R
+MRN_1812,ACC_80018,2024-05-26,Urine,Candida albicans,Amphotericin B,2.58,R
+MRN_1812,ACC_80018,2024-05-26,Urine,Candida albicans,Caspofungin,0.36,S
+MRN_7180,ACC_42434,2024-09-16,Blood,Acinetobacter baumannii,Colistin,2.34,R
+MRN_7180,ACC_42434,2024-09-16,Blood,Acinetobacter baumannii,Meropenem,3.45,R
+MRN_7180,ACC_42434,2024-09-16,Blood,Acinetobacter baumannii,Ampicillin/Sulbactam,2.14,R
+MRN_7180,ACC_42434,2024-09-16,Blood,Acinetobacter baumannii,Tigecycline,3.67,R
+MRN_4813,ACC_90184,2024-09-25,Sputum,Candida albicans,Fluconazole,1.73,I
+MRN_4813,ACC_90184,2024-09-25,Sputum,Candida albicans,Voriconazole,0.49,S
+MRN_4813,ACC_90184,2024-09-25,Sputum,Candida albicans,Amphotericin B,1.04,I
+MRN_4813,ACC_90184,2024-09-25,Sputum,Candida albicans,Caspofungin,2.5,R
+MRN_7558,ACC_34343,2024-08-28,Catheter Tip,Candida albicans,Fluconazole,1.29,I
+MRN_7558,ACC_34343,2024-08-28,Catheter Tip,Candida albicans,Voriconazole,2.44,R
+MRN_7558,ACC_34343,2024-08-28,Catheter Tip,Candida albicans,Amphotericin B,2.31,R
+MRN_7558,ACC_34343,2024-08-28,Catheter Tip,Candida albicans,Caspofungin,0.46,S
+MRN_6347,ACC_65026,2024-08-24,Sputum,Klebsiella pneumoniae,Ceftriaxone,1.53,I
+MRN_6347,ACC_65026,2024-08-24,Sputum,Klebsiella pneumoniae,Meropenem,3.1,R
+MRN_6347,ACC_65026,2024-08-24,Sputum,Klebsiella pneumoniae,Ceftazidime,1.55,I
+MRN_6347,ACC_65026,2024-08-24,Sputum,Klebsiella pneumoniae,Gentamicin,0.77,S
+MRN_6790,ACC_72120,2024-05-01,Wound Swab,E. coli,Ciprofloxacin,1.41,I
+MRN_6790,ACC_72120,2024-05-01,Wound Swab,E. coli,Amoxicillin/Clavulanate,2.08,R
+MRN_6790,ACC_72120,2024-05-01,Wound Swab,E. coli,Ceftriaxone,2.52,R
+MRN_6790,ACC_72120,2024-05-01,Wound Swab,E. coli,Meropenem,2.69,R
+MRN_8680,ACC_31960,2024-08-30,Sputum,Staphylococcus aureus,Vancomycin,3.91,R
+MRN_8680,ACC_31960,2024-08-30,Sputum,Staphylococcus aureus,Oxacillin,2.51,R
+MRN_8680,ACC_31960,2024-08-30,Sputum,Staphylococcus aureus,Daptomycin,2.04,R
+MRN_8680,ACC_31960,2024-08-30,Sputum,Staphylococcus aureus,Linezolid,3.94,R
+MRN_4197,ACC_67373,2024-07-16,Urine,Klebsiella pneumoniae,Ceftriaxone,3.78,R
+MRN_4197,ACC_67373,2024-07-16,Urine,Klebsiella pneumoniae,Meropenem,1.05,I
+MRN_4197,ACC_67373,2024-07-16,Urine,Klebsiella pneumoniae,Ceftazidime,3.55,R
+MRN_4197,ACC_67373,2024-07-16,Urine,Klebsiella pneumoniae,Gentamicin,2.1,R
+MRN_3699,ACC_89850,2024-07-31,Sputum,E. coli,Ciprofloxacin,1.92,I
+MRN_3699,ACC_89850,2024-07-31,Sputum,E. coli,Amoxicillin/Clavulanate,2.94,R
+MRN_3699,ACC_89850,2024-07-31,Sputum,E. coli,Ceftriaxone,1.88,I
+MRN_3699,ACC_89850,2024-07-31,Sputum,E. coli,Meropenem,0.31,S
+MRN_8109,ACC_18192,2024-05-12,Blood,Candida albicans,Fluconazole,3.12,R
+MRN_8109,ACC_18192,2024-05-12,Blood,Candida albicans,Voriconazole,1.61,I
+MRN_8109,ACC_18192,2024-05-12,Blood,Candida albicans,Amphotericin B,2.69,R
+MRN_8109,ACC_18192,2024-05-12,Blood,Candida albicans,Caspofungin,3.34,R
+MRN_4362,ACC_58271,2024-05-14,Urine,Candida albicans,Fluconazole,0.31,S
+MRN_4362,ACC_58271,2024-05-14,Urine,Candida albicans,Voriconazole,3.09,R
+MRN_4362,ACC_58271,2024-05-14,Urine,Candida albicans,Amphotericin B,3.15,R
+MRN_4362,ACC_58271,2024-05-14,Urine,Candida albicans,Caspofungin,3.74,R
+MRN_5272,ACC_38128,2024-10-07,Wound Swab,Enterococcus faecium,Vancomycin,1.92,I
+MRN_5272,ACC_38128,2024-10-07,Wound Swab,Enterococcus faecium,Linezolid,2.78,R
+MRN_5272,ACC_38128,2024-10-07,Wound Swab,Enterococcus faecium,Daptomycin,1.26,I
+MRN_5272,ACC_38128,2024-10-07,Wound Swab,Enterococcus faecium,Ampicillin,3.29,R
+MRN_4432,ACC_94184,2024-05-18,Blood,Serratia marcescens,Ceftriaxone,2.71,R
+MRN_4432,ACC_94184,2024-05-18,Blood,Serratia marcescens,Meropenem,1.44,I
+MRN_4432,ACC_94184,2024-05-18,Blood,Serratia marcescens,Gentamicin,2.87,R
+MRN_4432,ACC_94184,2024-05-18,Blood,Serratia marcescens,Ciprofloxacin,0.68,S
+MRN_6096,ACC_12632,2024-07-18,Blood,Enterococcus faecium,Vancomycin,1.48,I
+MRN_6096,ACC_12632,2024-07-18,Blood,Enterococcus faecium,Linezolid,2.14,R
+MRN_6096,ACC_12632,2024-07-18,Blood,Enterococcus faecium,Daptomycin,0.78,S
+MRN_6096,ACC_12632,2024-07-18,Blood,Enterococcus faecium,Ampicillin,2.3,R
+MRN_1972,ACC_70216,2024-05-05,Catheter Tip,Staphylococcus aureus,Vancomycin,3.81,R
+MRN_1972,ACC_70216,2024-05-05,Catheter Tip,Staphylococcus aureus,Oxacillin,0.77,S
+MRN_1972,ACC_70216,2024-05-05,Catheter Tip,Staphylococcus aureus,Daptomycin,3.93,R
+MRN_1972,ACC_70216,2024-05-05,Catheter Tip,Staphylococcus aureus,Linezolid,3.86,R
+MRN_4380,ACC_13210,2024-08-30,Urine,Klebsiella pneumoniae,Ceftriaxone,3.03,R
+MRN_4380,ACC_13210,2024-08-30,Urine,Klebsiella pneumoniae,Meropenem,3.33,R
+MRN_4380,ACC_13210,2024-08-30,Urine,Klebsiella pneumoniae,Ceftazidime,0.62,S
+MRN_4380,ACC_13210,2024-08-30,Urine,Klebsiella pneumoniae,Gentamicin,3.45,R
+MRN_7558,ACC_37929,2024-06-19,Catheter Tip,Serratia marcescens,Ceftriaxone,2.51,R
+MRN_7558,ACC_37929,2024-06-19,Catheter Tip,Serratia marcescens,Meropenem,1.78,I
+MRN_7558,ACC_37929,2024-06-19,Catheter Tip,Serratia marcescens,Gentamicin,3.68,R
+MRN_7558,ACC_37929,2024-06-19,Catheter Tip,Serratia marcescens,Ciprofloxacin,2.27,R
+MRN_7536,ACC_34717,2024-05-01,Blood,Candida albicans,Fluconazole,2.33,R
+MRN_7536,ACC_34717,2024-05-01,Blood,Candida albicans,Voriconazole,1.89,I
+MRN_7536,ACC_34717,2024-05-01,Blood,Candida albicans,Amphotericin B,2.47,R
+MRN_7536,ACC_34717,2024-05-01,Blood,Candida albicans,Caspofungin,0.62,S
+MRN_3235,ACC_99149,2024-09-29,Sputum,Candida albicans,Fluconazole,1.14,I
+MRN_3235,ACC_99149,2024-09-29,Sputum,Candida albicans,Voriconazole,0.56,S
+MRN_3235,ACC_99149,2024-09-29,Sputum,Candida albicans,Amphotericin B,2.27,R
+MRN_3235,ACC_99149,2024-09-29,Sputum,Candida albicans,Caspofungin,2.0,I
+MRN_2232,ACC_82809,2024-08-19,Wound Swab,Candida albicans,Fluconazole,1.26,I
+MRN_2232,ACC_82809,2024-08-19,Wound Swab,Candida albicans,Voriconazole,1.88,I
+MRN_2232,ACC_82809,2024-08-19,Wound Swab,Candida albicans,Amphotericin B,2.29,R
+MRN_2232,ACC_82809,2024-08-19,Wound Swab,Candida albicans,Caspofungin,3.15,R
+MRN_3146,ACC_50839,2024-06-03,Sputum,Candida albicans,Fluconazole,3.05,R
+MRN_3146,ACC_50839,2024-06-03,Sputum,Candida albicans,Voriconazole,0.5,S
+MRN_3146,ACC_50839,2024-06-03,Sputum,Candida albicans,Amphotericin B,2.46,R
+MRN_3146,ACC_50839,2024-06-03,Sputum,Candida albicans,Caspofungin,1.6,I
+MRN_6032,ACC_46564,2024-07-24,Urine,Candida albicans,Fluconazole,1.38,I
+MRN_6032,ACC_46564,2024-07-24,Urine,Candida albicans,Voriconazole,3.34,R
+MRN_6032,ACC_46564,2024-07-24,Urine,Candida albicans,Amphotericin B,2.5,R
+MRN_6032,ACC_46564,2024-07-24,Urine,Candida albicans,Caspofungin,3.52,R
+MRN_4136,ACC_12875,2024-05-23,Catheter Tip,Pseudomonas aeruginosa,Ceftazidime,2.85,R
+MRN_4136,ACC_12875,2024-05-23,Catheter Tip,Pseudomonas aeruginosa,Meropenem,0.32,S
+MRN_4136,ACC_12875,2024-05-23,Catheter Tip,Pseudomonas aeruginosa,Piperacillin/Tazobactam,0.82,S
+MRN_4136,ACC_12875,2024-05-23,Catheter Tip,Pseudomonas aeruginosa,Colistin,2.44,R
+MRN_7994,ACC_99408,2024-08-22,Wound Swab,Pseudomonas aeruginosa,Ceftazidime,0.43,S
+MRN_7994,ACC_99408,2024-08-22,Wound Swab,Pseudomonas aeruginosa,Meropenem,1.46,I
+MRN_7994,ACC_99408,2024-08-22,Wound Swab,Pseudomonas aeruginosa,Piperacillin/Tazobactam,1.82,I
+MRN_7994,ACC_99408,2024-08-22,Wound Swab,Pseudomonas aeruginosa,Colistin,0.67,S
+MRN_5006,ACC_17035,2024-08-10,Urine,Klebsiella pneumoniae,Ceftriaxone,0.2,S
+MRN_5006,ACC_17035,2024-08-10,Urine,Klebsiella pneumoniae,Meropenem,2.09,R
+MRN_5006,ACC_17035,2024-08-10,Urine,Klebsiella pneumoniae,Ceftazidime,1.4,I
+MRN_5006,ACC_17035,2024-08-10,Urine,Klebsiella pneumoniae,Gentamicin,2.92,R
+MRN_2326,ACC_28958,2024-07-13,Sputum,Acinetobacter baumannii,Colistin,3.76,R
+MRN_2326,ACC_28958,2024-07-13,Sputum,Acinetobacter baumannii,Meropenem,2.66,R
+MRN_2326,ACC_28958,2024-07-13,Sputum,Acinetobacter baumannii,Ampicillin/Sulbactam,1.56,I
+MRN_2326,ACC_28958,2024-07-13,Sputum,Acinetobacter baumannii,Tigecycline,3.82,R
