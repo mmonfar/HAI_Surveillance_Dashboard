@@ -1,6 +1,11 @@
 HAI Surveillance Dashboard - Power BI
 This repository contains a Power BI project called HAI Surveillance Dashboard that focuses on the surveillance of Health-Associated Infections (HAI), the correlation of medical conditions and bacterial infections with Procalcitonin (PCT) levels, and providing insights through a live antibiogram. The dashboard visualizes this critical data to help monitor infection trends and inform treatment decisions.
 
+![Dashboard Preview](images/dashboard_preview.png)
+
+Dashboard Link
+You can access the live Power BI dashboard here: https://app.powerbi.com/groups/me/reports/40cc57fc-7ee0-47d8-9005-10a88ad7181f?ctid=cb48446e-90e6-4bf1-825b-40e48fcc9ff6&pbi_source=linkShare
+
 Project Overview
 The HAI Surveillance Dashboard aims to provide healthcare professionals with a real-time, data-driven tool to monitor the dynamics of hospital-acquired infections (HAI). By analyzing the correlation between HAI cases and biomarkers such as PCT, as well as bacterial resistance patterns through antibiograms, the dashboard helps in:
 
@@ -18,6 +23,8 @@ HAI_Surveillance/
 ├── data/
 │   ├── culture_results_data.csv            # Synthetic data - culture results (CSV)
 │   └── main_patient_data.csv               # Synthetic data - patient details (CSV)
+├── images/
+│   └── dashboard_preview.png
 └── README.md                               # Project overview and setup instructions
 
 Data Sources
